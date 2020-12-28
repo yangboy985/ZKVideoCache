@@ -1,0 +1,1315 @@
+--------- beginning of main
+08-24 11:40:05.382  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:05.384  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:04,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:05.384  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:04,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:05.384  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:05.385  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:05.386  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:05.386  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:05.386  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:05.387  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:05.388  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:05.388  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:05.388  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:05.535  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 4, [totalSecond]: 25
+08-24 11:40:06.309  2184  2864 D zklog   : CJSPControl:/doCommandInWorkThread command =17
+08-24 11:40:06.310  4482  4495 D zklog   : DetailService:/command =17
+08-24 11:40:06.310  4482  4495 D zklog   : CommandUtils:/isInited doCommand
+08-24 11:40:06.324  4482  4495 D zklog   : RuntimeLogManager:/addRealTimeLog(), {"level":3,"runner":{"type":"dex","id":"magazine_sdk","version":"38","channel":"FLK_A1006","version_name":"FLK_A1006.38.1.20200819.release"},"mainapp":{"pkg":"com.meizu.customizecenter","version":"8005002","channel":"FLK_A1006"},"device":{"imei":"868067033693649","andid":"e9cc012367c3b722","andver":27,"brand":"Meizu","model":"M1822","net":0,"iswifi":true},"eid":"res_check_info","ecnt":"{\"result\":\"onSuccess\",\"resId\":\"52423bde54098c0dc9ef78d87c1842c9\",\"uniqueValue\":\"679e5fdfb033db0476685d76efea7d82\",\"errorMessage\":\"\",\"errCode\":-1,\"checkMode\":2,\"haveAdFrame\":true,\"position\":0}","etime":1598240406310,"retry":0}
+08-24 11:40:06.326  2184  2864 D zklog   : CJSPControl:/doCommandInWorkThread imitate command =17
+08-24 11:40:06.384  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=true
+08-24 11:40:06.386  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:05,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:06.386  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:05,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:06.387  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:06.388  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:06.389  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:06.390  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:06.390  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:06.392  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:06.392  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:06.393  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:06.393  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:06.537  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 5, [totalSecond]: 25
+08-24 11:40:06.681  6820  6854 D AppStrategy: set type: 2, pkg: com.android.settings, cloneId: 0
+08-24 11:40:06.683  1368  8370 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=686146 mCount=138 mAcquireTime=-1
+08-24 11:40:06.683  1368  8370 I BatteryStatsImpl: start #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:06.683  1368  8370 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=953903000 mCount=3669 mAcquireTime=-1
+08-24 11:40:06.683  1368  8370 I BatteryStatsImpl: start #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:06.684  6820  6853 D AppPolicy: doAppManagerTask status: 2, AppInfo pkg: com.android.settings, cloneId: 0
+08-24 11:40:06.684  6820  6853 D AppPolicy: appPauseProcess AppType: system recent favorite systemState : 101
+08-24 11:40:06.686  6820  6889 I KAT:TrimManager: pkgName=com.android.settings, appAdjThr=200, appBgTimeThr=1, appTypeThr=ignore, reason=by pps for SingleAppPerfStrategy
+08-24 11:40:06.686  6820  6889 I KAT:TrimManager: trimming pkg=com.android.settings
+08-24 11:40:06.686  1368  8370 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=686146 mCount=138 mAcquireTime=-1
+08-24 11:40:06.687  1368  8370 I BatteryStatsImpl: stop #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:06.687  1368  8370 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=953903000 mCount=3669 mAcquireTime=-1
+08-24 11:40:06.687  1368  8370 I BatteryStatsImpl: stop #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:07.539  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 6, [totalSecond]: 25
+08-24 11:40:07.690  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:08.378  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:08.379  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:06,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:08.379  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:06,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:08.380  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:08.390  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:08.392  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:08.393  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:08.393  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:08.393  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:08.394  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:08.394  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:08.394  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:08.531  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 7, [totalSecond]: 25
+08-24 11:40:08.747  6820  7052 I KAT:TrimManager: pid:11901, pkg=com.android.settings, time=57ms, freed:9200KB
+08-24 11:40:08.776  1368  2090 D AudioService: MzCreateMediaserverWatchdogThread: monitor mediaserver end !!!
+08-24 11:40:08.777  1368  2090 D AudioService: MzCreateMediaserverWatchdogThread: monitor mediaserver start!!!
+08-24 11:40:08.777  1368  2091 D AudioService: MzCreateMediaserverWatchdogThread: Monitoring ...
+08-24 11:40:08.777   946  1143 D AudioFlinger: setParameters(): io 0, keyvalue mediaserver_monitor=1, calling pid 1368
+08-24 11:40:08.778   946  1143 D AudioFlinger: [CURVE_VOLUME] setParameters: keyvalue mediaserver_monitor=1
+08-24 11:40:08.778   561   561 D audio_hw_primary: adev_set_parameters: enter: mediaserver_monitor=1
+08-24 11:40:08.778   561   561 D wt_audio_cust: wt_audio_mmi_setparameter: enter: mediaserver_monitor=1
+08-24 11:40:08.778   561   561 E wt_audio_cust: wt_audio_mmi_setparameter mmi test -2
+08-24 11:40:08.779   561   561 D audio_hw_extn: audio_extn_set_anc_parameters: anc_enabled:0
+08-24 11:40:08.779   561   561 D audio_hw_spkr_prot: audio_extn_fbsp_set_parameters: Speaker protection disabled
+08-24 11:40:08.782   946  1143 D APM_AudioPolicyManager: setStreamVolumeIndex() stream 7, device 00000400, index 15
+08-24 11:40:09.393  2184  2184 D WifiSignalController: setActivity activityIn=false,activityOut=false
+08-24 11:40:09.396  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:08,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:09.396  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:08,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:09.396  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:09.398  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:09.399  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840452
+08-24 11:40:09.400  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:09.400  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:09.400  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840452
+08-24 11:40:09.401  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:09.401  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:09.401  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:09.532  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 8, [totalSecond]: 25
+08-24 11:40:10.330  3496  3496 I MeizuNlp: [UpdateWorker] It is not a suitable time to install.
+--------- beginning of system
+08-24 11:40:10.483  1368  1407 D WindowManager: Try to Intercept package in flyme com.meizu.customizecenter
+08-24 11:40:10.484  1368  1407 D WindowManager: Detect finish states is 0
+08-24 11:40:10.485  1368  1407 D Resources: user mback nav return mz_navigation_bar_height
+08-24 11:40:10.532  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 9, [totalSecond]: 25
+08-24 11:40:10.778  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:11.396  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=true
+08-24 11:40:11.398  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:09,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:11.398  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:09,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:11.398  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:11.399  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:11.401  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:11.401  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:11.401  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:11.402  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:11.403  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:11.403  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:11.403  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:11.531  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 10, [totalSecond]: 25
+08-24 11:40:12.258  3496  3496 I MeizuNlp: [UpdateWorker] It is not a suitable time to install.
+08-24 11:40:12.534  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 11, [totalSecond]: 25
+08-24 11:40:13.402  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:13.404  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:11,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:13.404  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:11,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:13.405  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:13.405  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:13.408  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:13.409  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:13.409  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:13.411  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:13.412  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:13.412  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:13.412  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:13.536  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 12, [totalSecond]: 25
+08-24 11:40:13.847  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:14.405  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=true
+08-24 11:40:14.407  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:13,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:14.407  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:13,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:14.407  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:14.409  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:14.412  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:14.412  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:14.412  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:14.416  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:14.417  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:14.417  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:14.417  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:14.538  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 13, [totalSecond]: 25
+08-24 11:40:15.408  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:15.409  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:14,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:15.409  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:14,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:15.411  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:15.414  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:15.415  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:15.415  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:15.415  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:15.417  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:15.418  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:15.418  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:15.419  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:15.531  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 14, [totalSecond]: 25
+08-24 11:40:16.409  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=true
+08-24 11:40:16.411  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:15,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:16.411  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:15,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:16.411  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:16.412  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:16.414  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:16.414  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:16.415  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:16.421  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:16.422  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:16.422  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:16.422  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:16.532  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 15, [totalSecond]: 25
+08-24 11:40:16.902  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:17.531  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 16, [totalSecond]: 25
+08-24 11:40:18.531  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 17, [totalSecond]: 25
+08-24 11:40:19.531  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 18, [totalSecond]: 25
+08-24 11:40:19.974  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:20.538  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 19, [totalSecond]: 25
+08-24 11:40:21.423  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:21.425  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:16,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:21.425  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:16,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:21.425  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:21.426  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:21.427  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:21.428  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:21.428  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:21.429  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:21.430  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:21.430  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:21.430  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:21.540  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 20, [totalSecond]: 25
+08-24 11:40:22.531  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 21, [totalSecond]: 25
+08-24 11:40:23.062  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:23.530  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 22, [totalSecond]: 25
+08-24 11:40:24.432  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=true
+08-24 11:40:24.433  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:21,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:24.433  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:21,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:24.434  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:24.435  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:24.436  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:24.437  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:24.437  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:24.438  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:24.438  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:24.438  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:24.438  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:24.531  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 23, [totalSecond]: 25
+08-24 11:40:24.962  1368  1368 V Telecom : Logging: No stale logging sessions needed to be cleaned...
+08-24 11:40:24.976  1368  8370 I WifiService: getConnectionInfo uid=1000
+08-24 11:40:25.361   969 15783 I SoftAAC2: input buffer eos
+08-24 11:40:25.534  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 24, [totalSecond]: 25
+08-24 11:40:25.612   964 15770 I NuPlayerDecoder: [video] saw output EOS
+08-24 11:40:25.624   964 15768 I NuPlayerDecoder: [audio] saw output EOS
+08-24 11:40:25.624   964 15767 D AudioTrack: stop(): 0xe420a680, mState = 0
+08-24 11:40:25.625   964 15767 D AudioTrack: stop() called with 1075200 frames delivered
+08-24 11:40:25.625   946  1143 D AudioFlinger: [RAMP_DEBUG] applyRampCount: mNeedsRampCount = 0, rampCount = 3
+08-24 11:40:26.093   964 15761 D NuPlayerDriver: notifyListener_l(0xe46c1cb0), (2, 0, 0, -1), loop setting(0, 0)
+08-24 11:40:26.094   964 15767 D AudioTrack: pause(): 0xe420a680 mClientPid 8721
+08-24 11:40:26.094  8721  8721 I TQad    : VideoPlayer: onCompletion false
+08-24 11:40:26.095  8721  8721 I TQad    : VideoPlayer: notifyStateChange EL_COMPLETE
+08-24 11:40:26.095  8721  8721 I TQad    : TrackEventHandler: onProgress: [currentSecond]: 25, [totalSecond]: 25
+08-24 11:40:26.096  8721  8721 I TQad    : TrackEventHandler: onStateChange: [state]: EL_COMPLETE, [currentProgressTime]: 24366, [videoTotalTime]: 24366
+08-24 11:40:26.096  1368  8370 V MediaRouterService: restoreBluetoothA2dp(false)
+08-24 11:40:26.097 28885 28885 I TQad    : RewardAdCtrlMsgParser: [eventId]: 12, [paramList]: [24366, 24366]
+08-24 11:40:26.097 28885 28885 I TQad    : AdTracker: doNotifyEvent 12 1
+08-24 11:40:26.098  1368  2081 D AudioService: setForceUseInt_SyncDevices: usage 1; config = 10; eventSource = setBluetoothA2dpOn(false) from u/pid:1000/1368
+08-24 11:40:26.099   946  1143 D AudioPolicyManagerCustom: setForceUse() usage 1, config 10, mPhoneState 0
+08-24 11:40:26.099 28885  8984 W AdTracker: 
+08-24 11:40:26.100 28885 28885 I GAdLogger: Ctrl.AdControl:onRewardVideoAdLoad onVideoComplete
+08-24 11:40:26.100 28885 15059 I TQad    : UrlTrack1 : http://ads.vanmatt.com:9902/api/report.do?etype=12&data=lvovyHqTKpklHlApZwyYBvJKxTkI02oaK%2BpWEiI1JX%2FaU94dX1%2Bgq0g30Xa7N9O2bSMiioAmHlOU%2B5FII2lw9gRMYYO0%2FwozsXMJJylbQyWsFphRkNKtHvhIYDwEGKLt0NFnAib7zmHW948SnC6pE0wcT6CNI%2BjW0lXDOCt%2BRBxU7GGw8f4agrZAxSrfJ9LikNUEi1xmDNToVmRlTry8aGF%2BakjhSFjfB4dz4B8EL7Xqs%2BEwR6sqznuOP33hBlL8X3x59i%2BnjPkSXKQVkA21gR%2FVbWPCOGqEU5mQpPb7QumU523gI17%2FIwhZUROhBNjlv5tywqOJkmBoVHzSY%2BCm72Fu0zj5L%2FQLP040SAFTHTu2UIbwCZOm1pU1z4FbxQ4ryDNHSZfL2VXoLTKV9cHQ1cy8tQ9YyoJ656weSD5bIR7aI73c1%2BMY48HcOJJPZjLpgSkSbuuWiGIaE6pkwMlCUQv8LZX4OvO97zj1ZMXVbgwrQbyQ9HuZT9ynJ%2BqTJ2uI6K3HWAfpFSftRXE728PKni%2FBIR5oERlr%2BM%2BjRGD9XFIsRCP5J4Q6pUq5ivEbdYEsJEnmCqfAi35d4hSN17eJU6kg4MH2wmVwI2Cdi%2B%2BuFpafLjH1L943qwFbtKzUHAMrfST879KZOwzQPFn3JeHl2g%3D%3D&ach=_CLKTPEZK_
+08-24 11:40:26.115   595   595 W SurfaceFlinger: onMessageReceived FrameMissed ! fence ptr 0x796de2de40 
+08-24 11:40:26.124   946  1347 D AudioFlinger: updateWakeLockUidsPids_l: uids is empty!
+08-24 11:40:26.124   946  1347 D AudioFlinger: updateWakeLockUidsPids_l AudioOut_1D status 0
+08-24 11:40:26.124  1368 21356 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=379081 mCount=0 mAcquireTime=-1
+08-24 11:40:26.124  1368 21356 I BatteryStatsImpl: stop #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:26.124  1368 21356 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=1161000 mCount=33 mAcquireTime=-1
+08-24 11:40:26.124  1368 21356 I BatteryStatsImpl: stop #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:26.125  1368 21356 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=77998717 mCount=24 mAcquireTime=-1
+08-24 11:40:26.125  1368 21356 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=147431000 mCount=24 mAcquireTime=-1
+08-24 11:40:26.125  1368 21356 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=631445000 mCount=362 mAcquireTime=-1
+08-24 11:40:26.125  1368 21356 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=631445000 mCount=362 mAcquireTime=-1
+08-24 11:40:26.125  1368  3433 I BatteryStatsImpl: stop #-7: mUpdateTime=234419682000 mTotalTime=962020000 mCount=262 mAcquireTime=-1
+08-24 11:40:26.126  1368  3433 I BatteryStatsImpl: stop #15: mUpdateTime=234419682000 mTotalTime=436570998 mCount=70 mAcquireTime=-1
+08-24 11:40:26.130  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:26.146   946  1136 V APM_AudioPolicyManager: stopOutput() output 29, stream 3, session 3169
+08-24 11:40:26.146   946  1136 V APM_AudioPolicyManager: getNewOutputDevice() selected device 0
+08-24 11:40:26.146   946  1136 V APM_AudioPolicyManager: setOutputDevice() device 0000 delayMs 160
+08-24 11:40:26.146   946  1136 V APM_AudioPolicyManager: setOutputDevice() prevDevice 0x0002
+08-24 11:40:26.147   946  1136 V APM_AudioPolicyManager: setOutputDevice() setting same device 0x0000 or null device
+08-24 11:40:26.147   946  1136 V AudioPolicyManagerCustom: checkOutputForStrategy(): policy related outputs
+08-24 11:40:26.148   946  1136 W AudioFlinger: moveEffectChain_l() effect chain for session 0 not on source thread 0xf3603640
+08-24 11:40:26.148   946  1136 V APM_AudioPolicyManager: selectOutputForMusicEffects selected output 13
+08-24 11:40:26.269 28885 15059 I TQad    : AdTracker: MSG_HTTP_GET et = 12 response [s:true,code:200,m:null] url = http://ads.vanmatt.com:9902/api/report.do?etype=12&data=lvovyHqTKpklHlApZwyYBvJKxTkI02oaK%2BpWEiI1JX%2FaU94dX1%2Bgq0g30Xa7N9O2bSMiioAmHlOU%2B5FII2lw9gRMYYO0%2FwozsXMJJylbQyWsFphRkNKtHvhIYDwEGKLt0NFnAib7zmHW948SnC6pE0wcT6CNI%2BjW0lXDOCt%2BRBxU7GGw8f4agrZAxSrfJ9LikNUEi1xmDNToVmRlTry8aGF%2BakjhSFjfB4dz4B8EL7Xqs%2BEwR6sqznuOP33hBlL8X3x59i%2BnjPkSXKQVkA21gR%2FVbWPCOGqEU5mQpPb7QumU523gI17%2FIwhZUROhBNjlv5tywqOJkmBoVHzSY%2BCm72Fu0zj5L%2FQLP040SAFTHTu2UIbwCZOm1pU1z4FbxQ4ryDNHSZfL2VXoLTKV9cHQ1cy8tQ9YyoJ656weSD5bIR7aI73c1%2BMY48HcOJJPZjLpgSkSbuuWiGIaE6pkwMlCUQv8LZX4OvO97zj1ZMXVbgwrQbyQ9HuZT9ynJ%2BqTJ2uI6K3HWAfpFSftRXE728PKni%2FBIR5oERlr%2BM%2BjRGD9XFIsRCP5J4Q6pUq5ivEbdYEsJEnmCqfAi35d4hSN17eJU6kg4MH2wmVwI2Cdi%2B%2BuFpafLjH1L943qwFbtKzUHAMrfST879KZOwzQPFn3JeHl2g%3D%3D&ach=_CLKTPEZK_
+08-24 11:40:26.270 28885 15059 W TQad    : AdTracker: MSG_HTTP_GET resp 
+08-24 11:40:26.282  3496  3496 I MeizuNlp: [UpdateWorker] It is not a suitable time to install.
+08-24 11:40:26.607  3636  4020 D myTest666: defaultDataId===-1, slotId=-1
+08-24 11:40:26.608  3636  4020 D trafficTest: whichSimSelected slotId=-1,可能是未插卡，也可能是modern挂了，也可能插了双卡，其中流量卡挂了，或还在初始化中, 而另一张卡没有自动切换成流量
+08-24 11:40:26.608  3636  4020 D NetworkManagementMz: LocalSubscriptionManager: getSubId -1
+08-24 11:40:26.610  1368 21356 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=36901499 mCount=2042 mAcquireTime=-1
+08-24 11:40:26.610  1368 21356 I BatteryStatsImpl: start #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:26.610  1368 21356 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=953903000 mCount=3669 mAcquireTime=-1
+08-24 11:40:26.610  1368 21356 I BatteryStatsImpl: start #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:26.642  1368 21356 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=36901499 mCount=2042 mAcquireTime=-1
+08-24 11:40:26.642  1368 21356 I BatteryStatsImpl: stop #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:26.642  1368 21356 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=953903000 mCount=3669 mAcquireTime=-1
+08-24 11:40:26.642  1368 21356 I BatteryStatsImpl: stop #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:26.643  1368  2057 V NetworkPolicy: No need to control the network enable or disable
+08-24 11:40:26.643  1368  2057 D NetworkPolicy: delay 3000ms to update notification network limit.
+08-24 11:40:26.644  3636  4020 D myTest666: defaultDataId===-1, slotId=-1
+08-24 11:40:26.645  3636  4020 D trafficTest: whichSimSelected slotId=-1,可能是未插卡，也可能是modern挂了，也可能插了双卡，其中流量卡挂了，或还在初始化中, 而另一张卡没有自动切换成流量
+08-24 11:40:26.645  3636  4020 D NetworkManagementMz: LocalSubscriptionManager: getSubId -1
+08-24 11:40:26.645  3636  3636 D trafficTest1: pollingService通知Ui更新
+08-24 11:40:26.645  3636  3636 D trafficTest: ----refreshGeneralShowData
+08-24 11:40:26.645  3636  3636 D trafficTest: --------------亮屏没有监听器updateDataInterval 45 seconds 
+08-24 11:40:27.593 10149 10149 I adbd    : Calling send_auth_request...
+08-24 11:40:27.606 10149 10149 I adbd    : Loading keys from /data/misc/adb/adb_keys
+08-24 11:40:27.638 10149 10149 I adbd    : adb client authorized
+08-24 11:40:27.852  3496  3496 I MeizuNlp: [UpdateWorker] It is not a suitable time to install.
+08-24 11:40:28.777  1368  2090 D AudioService: MzCreateMediaserverWatchdogThread: monitor mediaserver end !!!
+08-24 11:40:28.777  1368  2090 D AudioService: MzCreateMediaserverWatchdogThread: monitor mediaserver start!!!
+08-24 11:40:28.777  1368  2091 D AudioService: MzCreateMediaserverWatchdogThread: Monitoring ...
+08-24 11:40:28.778   946  1143 D AudioFlinger: setParameters(): io 0, keyvalue mediaserver_monitor=1, calling pid 1368
+08-24 11:40:28.778   946  1143 D AudioFlinger: [CURVE_VOLUME] setParameters: keyvalue mediaserver_monitor=1
+08-24 11:40:28.779   561  1107 D audio_hw_primary: adev_set_parameters: enter: mediaserver_monitor=1
+08-24 11:40:28.780   561  1107 D wt_audio_cust: wt_audio_mmi_setparameter: enter: mediaserver_monitor=1
+08-24 11:40:28.780   561  1107 E wt_audio_cust: wt_audio_mmi_setparameter mmi test -2
+08-24 11:40:28.780   561  1107 D audio_hw_extn: audio_extn_set_anc_parameters: anc_enabled:0
+08-24 11:40:28.780   561  1107 D audio_hw_spkr_prot: audio_extn_fbsp_set_parameters: Speaker protection disabled
+08-24 11:40:28.783   946 23438 D APM_AudioPolicyManager: setStreamVolumeIndex() stream 7, device 00000400, index 15
+08-24 11:40:28.984   561   561 D audio_hw_primary: out_standby: enter: stream (0xeaa0f800) usecase(0: deep-buffer-playback)
+08-24 11:40:29.161   561   561 D audio_hw_primary: disable_audio_route: reset and update mixer path: deep-buffer-playback
+08-24 11:40:29.164   561   561 D hardware_info: hw_info_append_hw_type : device_name = speaker
+08-24 11:40:29.164   561   561 D audio_hw_primary: disable_snd_device: snd_device(2: speaker)
+08-24 11:40:29.164   561   561 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(0) new_snd_devices(0)
+08-24 11:40:29.170   561   561 D audio_hw_primary: out_standby: exit
+08-24 11:40:29.170   946  1347 D AudioFlinger: releaseWakeLock_l() AudioOut_1D
+08-24 11:40:29.171  1368 21356 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=77998717 mCount=24 mAcquireTime=-1
+08-24 11:40:29.172  1368 21356 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=147431000 mCount=24 mAcquireTime=-1
+08-24 11:40:29.172  1368 21356 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=631445000 mCount=362 mAcquireTime=-1
+08-24 11:40:29.172  1368 21356 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=631445000 mCount=362 mAcquireTime=-1
+08-24 11:40:29.174  6820  6835 D WorkingState: getEffectTime: duration = 48988
+08-24 11:40:29.174  6820  6835 D WorkingState: handleList: oriList : [8721]
+08-24 11:40:29.174  6820  6835 D WorkingState: currentList : []
+08-24 11:40:29.174  6820  6835 D WorkingState: addList: []
+08-24 11:40:29.174  6820  6835 D WorkingState: removeList : [8721]
+08-24 11:40:29.174  6820  6835 D WorkingState: mCurrentAudioMixs : {8721=AudioBase{args=8721, timeStap=238581916}}
+08-24 11:40:29.220  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:29.443  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:29.445  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:24,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:29.445  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:24,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:29.445  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:29.446  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:29.447  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:29.447  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:29.447  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:29.448  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:29.448  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:29.448  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:29.448  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:30.430 10149 10149 I adbd    : Calling send_auth_request...
+08-24 11:40:30.444 10149 10149 I adbd    : Loading keys from /data/misc/adb/adb_keys
+08-24 11:40:30.449 10149 15887 E adbd    : error reading protocol FD 21: Connection reset by peer
+08-24 11:40:30.481 10149 10149 I adbd    : adb client authorized
+08-24 11:40:30.532  3636  3777 I TeaLog  : p worked:true 60000
+08-24 11:40:30.537  3636  3777 I TeaLog  : s0 0
+08-24 11:40:30.537  3636  3777 I TeaLog  : s worked:true 60000
+08-24 11:40:32.312  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:32.434  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=true
+08-24 11:40:32.436  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:29,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:32.436  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:29,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:32.436  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:32.451  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:32.455  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:32.456  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:32.456  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:32.457  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:32.457  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:32.458  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:32.458  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:34.150  1368  2036 D AlarmManager: set alarm to RTC 2-238920773-11:45:19
+08-24 11:40:34.151  1368  2036 D AlarmManager: set alarm to RTC 3-238661730-11:41:00
+08-24 11:40:34.151  1368  2036 V AlarmManager: sending alarm Alarm{72eca79 type 2 when 238635880 11:40:34 android}
+08-24 11:40:34.152  1368  2036 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=765499 mCount=56 mAcquireTime=-1
+08-24 11:40:34.152  1368  2036 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=890000 mCount=56 mAcquireTime=-1
+08-24 11:40:34.152  1368  2036 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=8853000 mCount=187 mAcquireTime=-1
+08-24 11:40:34.152  1368  2036 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=8808000 mCount=185 mAcquireTime=-1
+08-24 11:40:34.154  1368  1368 I AppOpsManager: checkPackage packageName equals OpPackageName, packageName = android, calling uid = 1000, my uid = 1000
+08-24 11:40:34.156  1368  1368 V AlarmManager: setImplLocked:Alarm{c8defea type 2 when 238657012 11:40:55 android}
+08-24 11:40:34.157  1368  1368 D AlarmManager: set alarm to RTC 2-238657012-11:40:55
+08-24 11:40:34.158  1368  1368 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=765499 mCount=56 mAcquireTime=-1
+08-24 11:40:34.158  1368  1368 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=890000 mCount=56 mAcquireTime=-1
+08-24 11:40:34.158  1368  1368 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=8853000 mCount=187 mAcquireTime=-1
+08-24 11:40:34.158  1368  1368 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=8808000 mCount=185 mAcquireTime=-1
+08-24 11:40:34.159  1368  1368 W ActivityManager: Invalid packageName ( not common app ) :android
+08-24 11:40:34.159  1368  1368 V freeze  : Job package name + android isFrozen = false
+08-24 11:40:34.160  1368  1368 V ActivityManager: ComponentInfo{android/com.android.server.content.SyncJobService}
+08-24 11:40:34.160  1368  1368 V ActivityManager:  freeze=false, pid=1368
+08-24 11:40:34.160  1368  1368 I BatteryStatsImpl: start #14: mUpdateTime=234419682000 mTotalTime=8855000 mCount=138 mAcquireTime=-1
+08-24 11:40:34.160  1368  1368 I BatteryStatsImpl: start #14: mUpdateTime=234419682000 mTotalTime=8629000 mCount=134 mAcquireTime=-1
+08-24 11:40:34.161  1368  1368 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=3946505 mCount=121 mAcquireTime=-1
+08-24 11:40:34.161  1368  1368 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=7803000 mCount=120 mAcquireTime=-1
+08-24 11:40:34.161  1368  1368 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=8853000 mCount=187 mAcquireTime=-1
+08-24 11:40:34.162  1368  1368 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=8808000 mCount=185 mAcquireTime=-1
+08-24 11:40:34.163  1368  1406 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=1193061 mCount=127 mAcquireTime=-1
+08-24 11:40:34.163  1368  1406 I BatteryStatsImpl: start #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:34.163  1368  1406 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=953903000 mCount=3669 mAcquireTime=-1
+08-24 11:40:34.163  1368  1406 I BatteryStatsImpl: start #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:34.168  1368  1406 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=484584 mCount=121 mAcquireTime=-1
+08-24 11:40:34.168  1368  1406 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=1770000 mCount=120 mAcquireTime=-1
+08-24 11:40:34.179  1368  1406 I Interception: third procedure runType: retrieve_service caller:  callee: com.ss.android.ugc.aweme fg: false processName: com.ss.android.ugc.aweme:push calleeCalss: com.bytedance.ies.common.push.account.AccountSyncService intent: Intent { act=android.content.SyncAdapter cmp=com.ss.android.ugc.aweme/com.bytedance.ies.common.push.account.AccountSyncService }
+08-24 11:40:34.179  1368  1406 D Interception: V4 isInterceptByRule realCallingPid: -1 isMatch: false, runType===retrieve_service|||callerPkg===*|||calleePkg===com.ss.android.ugc.aweme|||calleeClass===com.bytedance.ies.common.push.account.AccountSyncService|||processName===com.ss.android.ugc.aweme:push|||action===android.content.SyncAdapter|||data===*|||extras===*|||interaction===bg|||intercept result===0
+08-24 11:40:34.179  1368  1406 W Interception: Link isInterceptAsUsual, caller  call com.ss.android.ugc.aweme interception default intercept as true!
+08-24 11:40:34.179  1368  1406 W Interception: reason:6)finally, intercept as usual, interception = true  details<<runType:retrieve_service isFgAction:false callerPkg: calleePkg:com.ss.android.ugc.aweme processName:com.ss.android.ugc.aweme:push Intent { act=android.content.SyncAdapter cmp=com.ss.android.ugc.aweme/com.bytedance.ies.common.push.account.AccountSyncService }>>
+08-24 11:40:34.180  1368  1406 E SyncManager: Bind attempt failed - target: ComponentInfo{com.ss.android.ugc.aweme/com.bytedance.ies.common.push.account.AccountSyncService}
+08-24 11:40:34.180  1368  1406 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=484584 mCount=121 mAcquireTime=-1
+08-24 11:40:34.180  1368  1406 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=1770000 mCount=120 mAcquireTime=-1
+08-24 11:40:34.180  1368  1406 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=1193061 mCount=127 mAcquireTime=-1
+08-24 11:40:34.180  1368  1406 I BatteryStatsImpl: stop #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:34.180  1368  1406 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=953903000 mCount=3669 mAcquireTime=-1
+08-24 11:40:34.181  1368  1406 I BatteryStatsImpl: stop #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:34.181  1368  1368 I BatteryStatsImpl: stop #14: mUpdateTime=234419682000 mTotalTime=8855000 mCount=138 mAcquireTime=-1
+08-24 11:40:34.181  1368  1368 I BatteryStatsImpl: stop #14: mUpdateTime=234419682000 mTotalTime=8629000 mCount=134 mAcquireTime=-1
+08-24 11:40:34.181  1368  1368 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=3946505 mCount=121 mAcquireTime=-1
+08-24 11:40:34.181  1368  1368 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=7803000 mCount=120 mAcquireTime=-1
+08-24 11:40:34.181  1368  1368 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=8853000 mCount=187 mAcquireTime=-1
+08-24 11:40:34.181  1368  1368 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=8808000 mCount=185 mAcquireTime=-1
+08-24 11:40:34.186  1368  1368 I AppOpsManager: checkPackage packageName equals OpPackageName, packageName = android, calling uid = 1000, my uid = 1000
+08-24 11:40:34.189  1368  1368 V AlarmManager: setImplLocked:Alarm{15320b6 type 2 when 238657012 11:40:55 android}
+08-24 11:40:34.190  1368  1368 V AlarmManager: setImplLocked:Alarm{72091b7 type 2 when 238972026 11:46:10 android}
+08-24 11:40:34.189  1368  1368 I AppOpsManager: checkPackage packageName equals OpPackageName, packageName = android, calling uid = 1000, my uid = 1000
+08-24 11:40:34.438  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:34.440  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:32,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:34.440  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:32,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:34.440  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:34.455  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:34.457  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:34.457  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:34.457  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:34.458  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:34.458  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:34.459  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:34.459  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:34.970  6820  6847 D WorkingState: updateProcessList: type = 2 uid = 10011
+08-24 11:40:34.971  6820  6847 D ProcessList: setWorkingState com.meizu.customizecenter:ad_wallpaper uid=10011 pid=4482 state=0x0
+08-24 11:40:34.971  6820  6847 D ProcessList: setWorkingState com.meizu.customizecenter:gameres uid=10011 pid=28885 state=0x0
+08-24 11:40:34.971  6820  6847 D ProcessList: setWorkingState com.meizu.customizecenter:zkgame uid=10011 pid=8721 state=0x1
+08-24 11:40:34.972  6820  6847 D ProcessList: setWorkingState com.android.webview:sandboxed_process0 uid=10011 pid=8879 state=0x0
+08-24 11:40:34.972  6820  6847 D ProcessList: setWorkingState com.android.webview:sandboxed_process1 uid=10011 pid=10485 state=0x0
+08-24 11:40:34.972  6820  6847 D ProcessList: setWorkingState com.meizu.customizecenter uid=10011 pid=14572 state=0x0
+08-24 11:40:34.974  6820  6854 D AppStateManager: onWorkingStateChange: args = 10011 state = 4 mCurrentSystemState = 101
+08-24 11:40:34.974  6820  6854 D AppStateManager: onBackgroundProcByUid: uid = 10011
+08-24 11:40:35.399  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:35.442  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=true
+08-24 11:40:35.443  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:34,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:35.443  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:34,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:35.444  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:35.458  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:35.460  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:35.460  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:35.460  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:35.461  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:35.462  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:35.462  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:35.462  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:36.444  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:36.446  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:35,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:36.446  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:35,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:36.446  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:36.461  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:36.462  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:36.462  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:36.463  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:36.463  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:36.464  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:36.464  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:36.464  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:37.446  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=true
+08-24 11:40:37.447  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:36,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:37.447  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:36,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:37.448  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:37.462  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:37.463  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:37.464  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:37.464  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:37.466  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:37.466  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:37.466  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:37.467  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:38.451  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:38.452  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:37,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:38.452  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:37,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:38.453  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:38.470  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:38.471  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:38.472  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:38.472  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:38.473  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:38.473  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:38.473  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:38.473  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:38.484  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:39.452  2184  2184 D WifiSignalController: setActivity activityIn=false,activityOut=false
+08-24 11:40:39.453  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:38,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:39.453  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:38,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:39.454  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:39.467  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:39.468  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840452
+08-24 11:40:39.469  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:39.469  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:39.470  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840452
+08-24 11:40:39.470  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:39.470  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:39.470  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:40.454  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:40.455  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=false,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:39,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:40.455  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:39,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:40.456  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:40.457  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:40.457  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:40.458  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:40.458  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:40.459  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:40.459  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:40.459  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:40.459  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:41.567  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:42.060  1368  2041 D Resources: user mback nav return mz_navigation_bar_height
+08-24 11:40:42.062  1368  2041 I RecentGestureListener: hasNavigationBarInner is true, pw.isKeyguardLocked() is false, isUserSetupComplete is true
+08-24 11:40:42.064  1368  2041 I RecentGestureListener: isInRecentPanelModeArea  state=0,isInNavigationBarGestureArea=false mActionNotpassToUser true mGestureState IDLE
+08-24 11:40:42.064  1368  2041 I WindowModeGestureListener: canTriggerWindowModeAction  state=-1 mActionNotpassToUser false mGestureState IDLE
+08-24 11:40:42.066  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:42.142   983  1026 E         : could not get event!
+08-24 11:40:42.143   983  1026 D         : ErrorMonitor HangDetect end ...... 
+08-24 11:40:42.143   983  1026 D         : ErrorMonitor HangDetect start ...... 
+08-24 11:40:42.143   983  1026 E         : could not get event!
+08-24 11:40:42.144   983  1026 D         : ErrorMonitor HangDetect end ...... 
+08-24 11:40:42.144   983  1026 D         : ErrorMonitor HangDetect start ...... 
+08-24 11:40:42.144   983  1026 E         : could not get event!
+08-24 11:40:42.144   983  1026 D         : ErrorMonitor HangDetect end ...... 
+08-24 11:40:42.144   983  1026 D         : ErrorMonitor HangDetect start ...... 
+08-24 11:40:42.144   983  1026 E         : could not get event!
+08-24 11:40:42.144   983  1026 D         : ErrorMonitor HangDetect end ...... 
+08-24 11:40:42.144   983  1026 D         : ErrorMonitor HangDetect start ...... 
+08-24 11:40:42.144  8721  8721 D ContentCapture: checkClickAndCapture, voiceRecorder=disable, collection=disable
+08-24 11:40:42.148  8721  8721 I TQad    : BaseController: interOrNothingClickEvent
+08-24 11:40:42.148  8721  8721 I TQad    : AdClickRtInfo: setJumpCenterPoint: view is null
+08-24 11:40:42.148  8721  8721 I TQad    : ClickRateHelper: [isNothingLogicNeedDoInterClick]: ViewAreaType{name='CLICKABLE'}
+08-24 11:40:42.149  8721  8721 I TQad    : ClickRateHelper: [isFullClick]: false
+08-24 11:40:42.149  8721  8721 I TQad    : ClickRateHelper: [isMistake]: false
+08-24 11:40:42.149  8721  8721 I TQad    : BaseController: [isScreenLockAd]: true, [mInterType]: 2, [mUrl]: https://re.taobao.com/search_ou?keyword=%E8%BF%9B%E5%8F%A3%E9%9B%B6%E9%A3%9F&catid=50010550&refpid=430292_1006&_input_charset=utf8&clk1=82560cafc40290afd07ad346baacffc4&spm=a231k.13731936.21333856.4.2eb72e63fcdCPl, [mActiveUri]: tbopen://m.taobao.com/tbopen/index.html?action=ali.open.nav&module=h5&bootImage=0&source=sb&appkey=24585258&smbSid=5KKcF7P%2F0ycCARsm%2Bkhr1lRu_1596530824621&rbbt=bc.mallDetail.6.0.0&params=%7B%22fid%22%3A%22crsFe5NebCD%22%2C%22mtopCostTime%22%3A%2210449%22%2C%22_t%22%3A%221596530835115%22%7D&h5Url=https%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D619540031605%26ali_refid%3Da3_430673_1006%253A1155920083%253AN%253AUbNf5k7XDyyFIgWRG3DRsg%253D%253D%253A76fdbfe1251ffb55cd0efc8785566ef8%26ali_trackid%3D1_76fdbfe1251ffb55cd0efc8785566ef8%26spm%3Da231k.13731936.21333857.11%26skuId%3D4545113399226%26point%3D%25257B%252522from%252522%25253A%252522h5%252522%25252C%252522ali_trackid%252522%25253A%2525221_76fdbfe1251ffb55cd0efc8785566ef8%252522%25252C%252522h5_uid%252522%25253A%2525225KKcF7P%25252F0ycCARsm%25252Bkhr1lRu%252522%25252C%252522ap_uri%252522%25253A%252522sb_redirect_auto%252522%25252C%252522page%252522%25253A%252522mallDetail%252522%25252C%252522callType%252522%25253A%252522scheme%252522%25257D
+08-24 11:40:42.152  8721  8721 I TQad    : PackageUtil: [isActiveUriExecutable]: res = true
+08-24 11:40:42.152  8721  8721 I TQad    : ActivityController: setApkDeepLink: [isScreenLockAd]: true, [apkDeepLink]: tbopen://m.taobao.com/tbopen/index.html?action=ali.open.nav&module=h5&bootImage=0&source=sb&appkey=24585258&smbSid=5KKcF7P%2F0ycCARsm%2Bkhr1lRu_1596530824621&rbbt=bc.mallDetail.6.0.0&params=%7B%22fid%22%3A%22crsFe5NebCD%22%2C%22mtopCostTime%22%3A%2210449%22%2C%22_t%22%3A%221596530835115%22%7D&h5Url=https%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D619540031605%26ali_refid%3Da3_430673_1006%253A1155920083%253AN%253AUbNf5k7XDyyFIgWRG3DRsg%253D%253D%253A76fdbfe1251ffb55cd0efc8785566ef8%26ali_trackid%3D1_76fdbfe1251ffb55cd0efc8785566ef8%26spm%3Da231k.13731936.21333857.11%26skuId%3D4545113399226%26point%3D%25257B%252522from%252522%25253A%252522h5%252522%25252C%252522ali_trackid%252522%25253A%2525221_76fdbfe1251ffb55cd0efc8785566ef8%252522%25252C%252522h5_uid%252522%25253A%2525225KKcF7P%25252F0ycCARsm%25252Bkhr1lRu%252522%25252C%252522ap_uri%252522%25253A%252522sb_redirect_auto%252522%25252C%252522page%252522%25253A%252522mallDetail%252522%25252C%252522callType%252522%25253A%252522scheme%252522%25257D
+08-24 11:40:42.153  8721  8721 W TQad    : LandingPage: showCustomToast d.j.a.a.l.f@fee7421 请解锁后查看
+08-24 11:40:42.154 28885 28885 I TQad    : AdRtLog: game_reward[bid:ee462ccba2769bb2f0546ab4be1ba26a],[evt:GAdClicked],[id:48199],[msg:],[ext:null],t 0 c 1
+08-24 11:40:42.154 28885 28885 E statsdk : {"provider":"game_reward","zkadid":"48199","bid":"ee462ccba2769bb2f0546ab4be1ba26a","admtype":3,"interactype":2,"realspaceid":"48199","adid":"1153065236250165248","adSrc":"1","idFromAdSrc":"1153065236250165248","zkappid":"1234","event":"GAdClicked","msg":"","extrmsg":"","space":0,"count":1,"version":1,"from":1,"gameName":"消灭怪兽","gameVersion":"1.0","gameId":"9b92b308b04e51430d02f80d4f257709","sessionId":"69a3160233084b63a741b64bc282d847","hostChannel":"FLK_A1006","source":1}
+08-24 11:40:42.155 28885 28885 I GAdLogger: Ctrl.AdControl:onRewardVideoAdLoad onInterTriggered
+08-24 11:40:42.459  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=true
+08-24 11:40:42.461  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:40,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:42.461  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:40,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:42.461  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:42.462  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:42.464  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:42.464  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:42.464  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:42.466  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:42.466  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:42.466  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:42.466  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:42.655 28885  8832 D LogEx   : bdwan-postRealTimeLog() ok
+08-24 11:40:44.466  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:44.468  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:42,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:44.468  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:42,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:44.469  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:44.470  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:44.471  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:44.471  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:44.471  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:44.472  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:44.472  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:44.472  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:44.472  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:44.657  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:46.874  1368  2041 D Resources: user mback nav return mz_navigation_bar_height
+08-24 11:40:46.876  1368  2041 I RecentGestureListener: hasNavigationBarInner is true, pw.isKeyguardLocked() is false, isUserSetupComplete is true
+08-24 11:40:46.877  1368  2041 I RecentGestureListener: isInRecentPanelModeArea  state=0,isInNavigationBarGestureArea=false mActionNotpassToUser true mGestureState IDLE
+08-24 11:40:46.877  1368  2041 I WindowModeGestureListener: canTriggerWindowModeAction  state=-1 mActionNotpassToUser false mGestureState IDLE
+08-24 11:40:46.879  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:46.948   983  1026 E         : could not get event!
+08-24 11:40:46.948   983  1026 D         : ErrorMonitor HangDetect end ...... 
+08-24 11:40:46.948   983  1026 D         : ErrorMonitor HangDetect start ...... 
+08-24 11:40:46.948   983  1026 E         : could not get event!
+08-24 11:40:46.948   983  1026 D         : ErrorMonitor HangDetect end ...... 
+08-24 11:40:46.948   983  1026 D         : ErrorMonitor HangDetect start ...... 
+08-24 11:40:46.948  8721  8721 D ContentCapture: checkClickAndCapture, voiceRecorder=disable, collection=disable
+08-24 11:40:46.948   983  1026 E         : could not get event!
+08-24 11:40:46.948   983  1026 D         : ErrorMonitor HangDetect end ...... 
+08-24 11:40:46.948   983  1026 D         : ErrorMonitor HangDetect start ...... 
+08-24 11:40:46.949   983  1026 E         : could not get event!
+08-24 11:40:46.949   983  1026 D         : ErrorMonitor HangDetect end ...... 
+08-24 11:40:46.949   983  1026 D         : ErrorMonitor HangDetect start ...... 
+08-24 11:40:46.950  8721  8721 I TQad    : BaseController: setRewardValid: [rewardStatus]: 1
+08-24 11:40:46.950  8721  8721 I TQad    : BaseController: rewardEvent, [key] : reward
+08-24 11:40:46.950  8721  8721 I TQad    : BaseController: isRewardValid: [validValue]: 1, [rewardStatus]: 1
+08-24 11:40:46.951  8721  8721 I TQad    : BaseController: closeOrInterClickEvent
+08-24 11:40:46.951  8721  8721 I TQad    : ClickRateHelper: [isCloseLogicNeedDoInterClick]: ViewAreaType{name='CLOSE'}
+08-24 11:40:46.951  8721  8721 I TQad    : ClickRateHelper: [isEndFramePage]: false
+08-24 11:40:46.952  8721  8721 I TQad    : ClickRateHelper: [isMonitorValid]: res = false
+08-24 11:40:46.952  8721  8721 I TQad    : ClickRateHelper: [isMistake]: false
+08-24 11:40:46.953  8721  8721 I TQad    : BaseController: rewardEvent, [key] : 
+08-24 11:40:46.953 28885 28885 I GAdLogger: Ctrl.AdControl:onRewardVideoAdLoad onRewardVerify true 1 reward
+08-24 11:40:46.954 28885 28885 I GAdLogger: GAdService.GameAdService:send command to client 2 true true cmd = 302 2224 0 Bundle[{1=true, 2=1, 3=reward}]
+08-24 11:40:46.956 28885 28885 I TQad    : AdRtLog: game_reward[bid:ee462ccba2769bb2f0546ab4be1ba26a],[evt:GAdCloseBtnClick],[id:48199],[msg:null],[ext:null],t 0 c 1
+08-24 11:40:46.956 15674 15695 D jswrapper: JS: adsdk_request_result  onClose 2224 true
+08-24 11:40:46.957 28885 28885 E statsdk : {"provider":"game_reward","zkadid":"48199","bid":"ee462ccba2769bb2f0546ab4be1ba26a","admtype":3,"interactype":2,"realspaceid":"48199","adid":"1153065236250165248","adSrc":"1","idFromAdSrc":"1153065236250165248","zkappid":"1234","event":"GAdCloseBtnClick","msg":"","extrmsg":"","space":0,"count":1,"version":1,"from":1,"gameName":"消灭怪兽","gameVersion":"1.0","gameId":"9b92b308b04e51430d02f80d4f257709","sessionId":"69a3160233084b63a741b64bc282d847","hostChannel":"FLK_A1006","source":1}
+08-24 11:40:46.957 15674 15695 D jswrapper: JS: 广告关闭 48199
+08-24 11:40:46.958 28885 28885 I TQad    : AdClickRtInfoSender: [ad click rt log]: {"ad_req_id":"ee462ccba2769bb2f0546ab4be1ba26a","space_id":"48199","adid":"1153065236250165248","adsrc":"1","id_from_adsrc":"1153065236250165248","c_d_x":915,"c_d_y":122,"c_u_x":915,"c_u_y":122,"sc_x":1080,"sc_y":2064,"c_rec_lu_x":24,"c_rec_lu_y":1920,"c_rec_rd_x":1056,"c_rec_rd_y":2136,"s_rec_lu_x":0,"s_rec_lu_y":0,"s_rec_rd_x":1080,"s_rec_rd_y":2160,"c_rec_type":2,"c_action":0,"jp_c_x":909,"jp_c_y":123,"rp_d_x":940,"rp_d_y":1935,"rp_u_x":946,"rp_u_y":1940,"vd_ms":24366,"s_c_ms":46391,"c_v_p_t":24366,"page":0}
+08-24 11:40:46.959 28885 28885 E statsdk : {"ad_req_id":"ee462ccba2769bb2f0546ab4be1ba26a","space_id":"48199","adid":"1153065236250165248","adsrc":"1","id_from_adsrc":"1153065236250165248","c_d_x":915,"c_d_y":122,"c_u_x":915,"c_u_y":122,"sc_x":1080,"sc_y":2064,"c_rec_lu_x":24,"c_rec_lu_y":1920,"c_rec_rd_x":1056,"c_rec_rd_y":2136,"s_rec_lu_x":0,"s_rec_lu_y":0,"s_rec_rd_x":1080,"s_rec_rd_y":2160,"c_rec_type":2,"c_action":0,"jp_c_x":909,"jp_c_y":123,"rp_d_x":940,"rp_d_y":1935,"rp_u_x":946,"rp_u_y":1940,"vd_ms":24366,"s_c_ms":46391,"c_v_p_t":24366,"page":0,"version":1,"from":1,"gameName":"消灭怪兽","gameVersion":"1.0","gameId":"9b92b308b04e51430d02f80d4f257709","sessionId":"69a3160233084b63a741b64bc282d847","hostChannel":"FLK_A1006","source":1}
+08-24 11:40:46.960 28885 28885 I TQad    : AdRtLog:  {"ad_req_id":"ee462ccba2769bb2f0546ab4be1ba26a","space_id":"48199","adid":"1153065236250165248","adsrc":"1","id_from_adsrc":"1153065236250165248","c_d_x":915,"c_d_y":122,"c_u_x":915,"c_u_y":122,"sc_x":1080,"sc_y":2064,"c_rec_lu_x":24,"c_rec_lu_y":1920,"c_rec_rd_x":1056,"c_rec_rd_y":2136,"s_rec_lu_x":0,"s_rec_lu_y":0,"s_rec_rd_x":1080,"s_rec_rd_y":2160,"c_rec_type":2,"c_action":0,"jp_c_x":909,"jp_c_y":123,"rp_d_x":940,"rp_d_y":1935,"rp_u_x":946,"rp_u_y":1940,"vd_ms":24366,"s_c_ms":46391,"c_v_p_t":24366,"page":0}
+08-24 11:40:46.960 28885 28885 I GAdLogger: Ctrl.AdControl:Landing onFinish Info{bid='20a8946b45c2d6c72dce73bec88e57ef', ua='null', url='null', closeIntent='null', showWhenLock=1, delayActive=false, ext=null, flags=2, debug=true, adInfo=AdInfo{adId='1153065236250165248', adSrcId='1', adCodeId='48199', adIdFromAdSrc='1153065236250165248', adtype=1}}
+08-24 11:40:46.960 28885 28885 W GAdLogger: Ctrl.AdControl:SEND S2C >> 12 2 null
+08-24 11:40:46.960 28885 28885 I GAdLogger: GAdService.GameAdService:send command to client 1 false false cmd = 17 12 2 null
+08-24 11:40:46.960  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:46.968  1368 21356 I BufferQueue: [unnamed-1368-534](this:0x7da4740800,id:534,api:0,p:-1,c:-1) BufferQueue core=(1368:system_server)
+08-24 11:40:46.969  1368 21356 D BufferQueueConsumer: [unnamed-1368-534](this:0x7da4740800,id:534,api:0,p:-1,c:1368) connect(C): consumer=(1368:system_server) controlledByApp=true
+08-24 11:40:46.971  1368 21356 D BufferQueueProducer: [unnamed-1368-534](this:0x7da4740800,id:534,api:1,p:595,c:1368) connect(P): api=1 producer=(595:/system/bin/surfaceflinger) producerControlledByApp=false
+08-24 11:40:46.992  1368 21356 I BatteryStatsImpl: stop #10: mUpdateTime=234419682000 mTotalTime=1292274000 mCount=469 mAcquireTime=-1
+08-24 11:40:46.992  1368 21356 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=27000 mCount=0 mAcquireTime=-1
+08-24 11:40:46.993  1368 21356 I BatteryStatsImpl: start #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:46.993  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:46.993  1368 21356 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=1161000 mCount=33 mAcquireTime=-1
+08-24 11:40:46.993  1368 21356 I BatteryStatsImpl: start #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:46.997  8721  8721 I TQad    : AdRtLog: [bid:20a8946b45c2d6c72dce73bec88e57ef],[evt:LdpPause],[id:],[msg:],[ext:],t 46516 c 0
+08-24 11:40:46.997  8721  8721 I TQad    : LandingPage: onPause
+08-24 11:40:46.997  3090  3161 D alphame : app paused: pkg=com.meizu.customizecenter, activity=com.zookingsoft.wrapper.ad.ScreenLockActivity, pid=0, isLast=true, isSpecActivity=false
+08-24 11:40:46.998  8721  8721 I TQad    : MediaVoiceHelper: onActivityPause
+08-24 11:40:46.998  8721  8721 I AudioManager: setStreamVolume: streamType = 3, index = 0, flags = 0, package = com.meizu.customizecenter
+08-24 11:40:46.998  6734  6967 D TriggerManager: pause activity: com.meizu.customizecenter/com.zookingsoft.wrapper.ad.ScreenLockActivity, pid=0
+08-24 11:40:46.999  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:46.999  1368  3433 D AudioService: setStreamVolume(stream=3, index=0, calling=com.meizu.customizecenter)
+08-24 11:40:46.999  1368  3433 D AudioService: MzcheckResumeRingerModeNormal: streamType = 3; isUnMute = false
+08-24 11:40:47.000  1368  3433 D VolumeController: [GJ_DEBUG] postVolumeChanged: streamType = 3
+08-24 11:40:47.000  1368  3433 I AudioService: [GJ_DEBUG] setStreamVolume: streamType = 3, oldIndex = 0, index = 0, flags = 0
+08-24 11:40:47.000  2184 13883 D GJ_DEBUG: =============volumeChanged===============
+08-24 11:40:47.001  2184 13883 D VolumePanel: [GJ_VOLUME] postVolumeChanged: streamType = 3, flags = 0
+08-24 11:40:47.003  1368  3433 D ActivityTrigger: activityResumeTrigger: The activity in ApplicationInfo{d20f54a com.meizu.customizecenter} is now in focus and seems to be in full-screen mode
+08-24 11:40:47.004  1368  3433 I WindowMode: mResumedActivity != next:true next.state: STOPPED next.isWindowMode: false
+08-24 11:40:47.004  1368  3433 I WindowMode: isAttachActivity activityRecord:ActivityRecord{20a5c22 u0 com.meizu.customizecenter/com.zookingsoft.wrapper.StartServiceActivity t935} mAttachActivityRecord: null
+08-24 11:40:47.005  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:47.009  1368  3433 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=9289579 mCount=117 mAcquireTime=-1
+08-24 11:40:47.009  1368  3433 I BatteryStatsImpl: start #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:47.009  1368  3433 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=953903000 mCount=3669 mAcquireTime=-1
+08-24 11:40:47.009  1368  3433 I BatteryStatsImpl: start #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:47.009  1368  3433 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=27000 mCount=0 mAcquireTime=-1
+08-24 11:40:47.009  1368  3433 I BatteryStatsImpl: stop #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:47.009  1368  3433 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=1161000 mCount=33 mAcquireTime=-1
+08-24 11:40:47.009  1368  3433 I BatteryStatsImpl: stop #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:47.010  1368  3433 I BatteryStatsImpl: stop #12: mUpdateTime=234419682000 mTotalTime=1331073000 mCount=171 mAcquireTime=-1
+08-24 11:40:47.010  1368  3433 I BatteryStatsImpl: start #12: mUpdateTime=234419682000 mTotalTime=7942180000 mCount=268 mAcquireTime=-1
+08-24 11:40:47.011  1368  3433 D Resources: user mback nav return mz_navigation_bar_height
+08-24 11:40:47.012  1368  3433 I BatteryStatsImpl: start #10: mUpdateTime=234419682000 mTotalTime=1292274000 mCount=469 mAcquireTime=-1
+08-24 11:40:47.013  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:47.014  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:47.014  1368  3433 I BatteryStatsImpl: stop #10: mUpdateTime=234419682000 mTotalTime=1292274000 mCount=469 mAcquireTime=-1
+08-24 11:40:47.014  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:47.019  2184 13883 D KeyguardViewMediator: setOccluded false
+08-24 11:40:47.028  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:47.034  1368  2058 D NetworkManagement: oldRule = 0, newRule=0 for uid=10011 on chain 2
+08-24 11:40:47.034  1368  2058 D NetworkManagement: !!!!! Skipping change
+08-24 11:40:47.035  8721  8721 D PhoneWindow: initNavigationBarColor color-526345,dark=true
+08-24 11:40:47.036  1368  1408 D STATUSBARCOLOR: mLastLightStatusBar=false,inLightMode=false,window=Window{e08b648 u0 com.meizu.customizecenter/com.zookingsoft.wrapper.ad.ScreenLockActivity}
+08-24 11:40:47.037  2184  2184 D StatusBarWindowManager: isLauncherForeground false,hasLockWallpaper false
+08-24 11:40:47.039  4059  4138 D WidgetManager: updateAppSuggestion for widget
+08-24 11:40:47.039  4059  4138 D AppSuggestionManager: requestPredictAppSuggestion allowExpiredTime = 30000
+08-24 11:40:47.040  3090  3161 D alphame : app resume: pkg=com.meizu.customizecenter, activity=com.zookingsoft.wrapper.StartServiceActivity, pid=0
+08-24 11:40:47.040  3090  3161 I alphame : detect scene pkgName = com.meizu.customizecenter, activity = com.zookingsoft.wrapper.StartServiceActivity, reset = false, state=1
+08-24 11:40:47.040  3090  3161 D alphame : scene not changed: normal
+08-24 11:40:47.040  3090  3161 D alphame : ACTION_ACTIVITY_DETECT pkgName=com.meizu.customizecenter, activity=com.zookingsoft.wrapper.StartServiceActivity, userId=0, quickAppPkg=null
+08-24 11:40:47.041  3090  3161 I alphame : onDetectAppEvent pkg=com.meizu.customizecenter, activity=com.zookingsoft.wrapper.StartServiceActivity, userId=0, quickPkg=null, now=1598240447041
+08-24 11:40:47.041  3090  3416 D alphame : trainRecent begin appRecords.size = 5228, toTrainList.size = 338
+08-24 11:40:47.042  3090  3416 D alphame : train log success: train recent, rawSize=338
+08-24 11:40:47.043  1368  2102 W SceneService:SceneBoostStrategy: Please check executeBoost params!!!
+08-24 11:40:47.038  6734  6967 D TriggerManager: resume activity: com.meizu.customizecenter/com.zookingsoft.wrapper.StartServiceActivity, pid=0
+08-24 11:40:47.045  6734  6753 I TriggerManager: notifyEvent:EVENT_ACTIVITY, obj=ActivityEvent{activity=com.zookingsoft.wrapper.StartServiceActivity, urlInfo=null}
+08-24 11:40:47.046  8721  8721 D NetworkManagementSocketTagger: enableTrace:com.meizu.customizecenter 10011 level:1
+08-24 11:40:47.046  3090  3161 D alphame : app paused: pkg=com.meizu.customizecenter, activity=com.zookingsoft.wrapper.StartServiceActivity, pid=0, isLast=true, isSpecActivity=false
+08-24 11:40:47.047  6734  6967 D TriggerManager: pause activity: com.meizu.customizecenter/com.zookingsoft.wrapper.StartServiceActivity, pid=0
+08-24 11:40:47.048  3090  3416 D alphame : 0.0 | 
+08-24 11:40:47.048  3090  3416 D alphame : changeLog:
+08-24 11:40:47.048  3090  3416 D alphame : 2018.3.13-3.3.0-RC01
+08-24 11:40:47.048  3090  3416 D alphame : 1.Support Latitude Longitude. 
+08-24 11:40:47.048  3090  3416 D alphame : 
+08-24 11:40:47.048  3090  3416 D alphame : Provider [Descriptor [labelSize=15, featureSize=9, spliter=,, attributes=[Attribute 0	com.meizu.customizecenterfeatureWeight=[0.07743902439024392, 0.1309959349593496, 0.03709349593495935, 0.1511178861788618, 0.14481707317073172, 0.14949186991869923, 0.09227642276422766, 0.11310975609756099, 0.10365853658536586]
+08-24 11:40:47.048  3090  3416 D alphame : [datas=[0, 18, 25, 26, 28, 30, 40, 47, 48, 51, 52, 56, 57, 58, 68, 69, 71, 75, 79, 89, 101, 108, 112, 119, 127, 129, 130, 131, 132, 140, 145, 147, 152, 153, 155, 156, 160, 163, 172, 173, 191, 205, 221, 222, 223, 224, 230, 233, 234, 235, 236, 237, 238, 239, 240, 241, 242, 243, 244, 245, 246, 247, 248, 249, 250, 251, 252, 253, 254, 255, 256, 257, 258, 259, 260, 261, 269, 270, 279, 280, 281, 283, 286, 287, 290, 291, 292, 293, 294, 295, 296, 297, 298, 300, 301, 302, 303, 304, 305, 307, 308, 310, 311, 312, 313, 314, 315, 317, 319, 320, 322, 324, 330, 332], openDates=[2020/08/17, 2020/08/18, 2020/08/19, 2020/08/20, 2020/08/21, 2020/08/24], openDateSize=6, dateOpens=[9, 9, 12, 51, 32, 1], startSize=6, dateSize=6, dataSize=333], Attribute 1	com.android.settingsfeatureWeight=[0.07743902439024392, 0.1309959349593496, 0.03709349593495935, 0.1511178861788618, 0.14481707317073172, 0.14949186991869923, 0.09227642276422766, 0.11310975609756099, 0.10365853658536586]
+08-24 11:40:47.048  3090  3416 D alphame : [datas=[1, 5, 6, 7, 8, 9, 10, 11, 14, 15, 16, 17, 19, 20, 27, 29, 31, 32, 33, 37, 38, 39, 45, 49, 55, 61, 62, 63, 64, 70, 78, 80, 81, 82, 83, 84, 86, 88, 91, 92, 94, 95, 96, 104, 105, 106, 109, 113, 118, 123, 124, 125, 128, 133, 136, 137, 139, 141, 144, 146, 154, 157, 158, 159, 161, 162, 164, 165, 166, 167, 170, 177, 178, 196, 198, 200, 201, 202, 203, 208, 209, 212, 213, 216, 217, 218, 219, 220, 225, 264, 265, 271, 284, 285, 306, 309, 326, 331], openDates=[2020/08/17, 2020/08/18, 2020/08/19, 2020/08/20, 2020/08/21, 2020/08/24], openDateSize=6, dateOpens=[24, 6, 29, 33, 5, 1], startSize=6, dateSize=6, dataSize=333], Attribute 2	com.meizu.flyme.weatherfeatureWeight=[0.07743902439024392, 0.1309959349593496, 0.03709349593495935, 0.1511178861788618, 0.14481707317073172, 0.14949186991869923, 0.09227642276422766, 0.11310975609756099, 0.10365853658536586]
+08-24 11:40:47.048  3090  3416 D alphame : [datas=[2, 3], openDates=[2020/08/17], openDateSize=1, dateOpens=[2, 0, 0, 0, 0, 0], startSize=6, dateSize=6, dataSize=333], Attribute 3	com.android.dialerfeatureWeight=[0.07743902439024392, 0.1309959349593496, 0.03709349593495935, 0.1511178861788618, 0.14481707317073172, 0.14949186991869923, 0.09227642276422766, 0.11310975609756099, 0.10365853658536586]
+08-24 11:40:47.048  3090  3416 D alphame : [datas=[4, 44, 46, 60, 72, 74, 77, 90, 117, 122, 126, 143, 190, 214, 262, 263, 266], openDates=[2020/08/17, 2020/08/18, 2020/08/19, 2020/08/20], openDateSize=4, dateOpens=[3, 3, 6, 5, 0, 0], startSize=6, dateSize=6, dataSize=333], Attribute 4	com.meizu.media.galleryfeatureWeight=[0.07743902439024392, 0.1309959349593496, 0.03709349593495935, 0.1511178861788618, 0.14481707317073172, 0.14949186991869923, 0.09227642276422766, 0.11310975609756099, 0.10365853658536586]
+08-24 11:40:47.048  3090  3416 D alphame : [datas=[12, 188], openDates=[2020/08/17, 2020/08/20], openDateSize=2, dateOpens=[1, 0, 0, 1, 0, 0], startSize=6, dateSize=6, dataSize=333], Attribute 5	com.meizu.filemanagerfeatureWeight=[0.07743902439024392, 0.1309959349593496, 0.03709349593495935, 0.1511178861788618, 0.14481707317073172, 0.14949186991869923, 0.09227642276422766, 0.11310975609756099, 0.10365853658536586]
+08-24 11:40:47.048  3090  3416 D alphame : [datas=[13, 21, 22, 23, 24, 34, 35, 36, 41, 42, 43, 50, 59, 65, 66, 67, 87, 93, 97, 98, 99, 100, 107, 114, 134, 135, 138, 168, 169, 171, 176, 183, 187, 199, 204, 206, 207, 299, 327, 328, 329], openDates=[2020/08/17, 2020/08/18, 2020/08/19, 2020/08/20, 2020/08/21], openDateSize=5, dateOpens=[12, 4, 11, 10, 4, 0], startSize=6, dateSize=6, dataSize=333], Attribute 6	com.eg.android.AlipayGphonefeatureWeight=[0.07743902439024392, 0.1309959349593496, 0.03709349593495935, 0.1511178861788618, 0.14481707317073172, 0.14949186991869923, 0.09227642276422766, 0.11310975609756099, 0.10365853658536586]
+08-24 11:40:47.048  3090  3416 D alphame : [datas=[53, 54], openDates=[2020/08/18], openDateSize=
+08-24 11:40:47.049  2184  2184 D StatusBarWindowManager: forceFaceRecognitionBrightness false,mScreenBrightnessFaceRecognition 0.0
+08-24 11:40:47.051  3090  3416 D alphame : predictApp mCurrAppEvent.toString() = 2020/08/24 11:40:47,-1,1,113.94607_22.531823,42,com.meizu.customizecenter,null,0,0,0
+08-24 11:40:47.054  3090  3416 D alphame : predictApp  com.meizu.customizecenter     [0.798768 K 0.826168|R 0.771368]
+08-24 11:40:47.054  3090  3416 D alphame : predictApp  com.android.settings          [0.724442 K 0.842850|R 0.606034]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.taobao.taobao             [0.804726 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.meizu.filemanager         [0.785953 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.android.dialer            [0.783541 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.meizu.voiceassistant      [0.748217 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.meizu.themepreview        [0.519600 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.meizu.media.gallery       [0.500548 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.sdfjre.rtgjklrt.yw.mz     [0.251358 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.ss.android.ugc.aweme      [0.251358 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.android.browser           [0.251358 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.achievo.vipshop           [0.251358 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.meizu.mznfcpay            [0.237118 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.eg.android.AlipayGphone   [0.213015 K ]
+08-24 11:40:47.055  3090  3416 D alphame : predictApp  com.meizu.flyme.weather       [0.157551 K ]
+08-24 11:40:47.066  8721  8721 I TQad    : LandingPage: onStop
+08-24 11:40:47.067  8721  8721 I TQad    : AdRtLog: [bid:20a8946b45c2d6c72dce73bec88e57ef],[evt:LdpDestroy],[id:],[msg:],[ext:],t 46585 c 0
+08-24 11:40:47.067  8721  8721 I TQad    : LandingPage: onDestroy
+08-24 11:40:47.067  8721  8721 I TQad    : BaseController: rewardEvent, [key] : 
+08-24 11:40:47.067  8721  8721 I TQad    : VideoPageController: onPageDestroy
+08-24 11:40:47.067  8721  8721 I TQad    : MediaVoiceHelper: onActivityPause
+08-24 11:40:47.067  8721  8721 I AudioManager: setStreamVolume: streamType = 3, index = 0, flags = 0, package = com.meizu.customizecenter
+08-24 11:40:47.067 28885 28885 I GAdLogger: Ctrl.AdControl:onRewardVideoAdLoad onAdClose
+08-24 11:40:47.067  4059  4138 D AppSuggestionManager: requestPredictAppSuggestion result, changed = true
+08-24 11:40:47.068 28885 28885 I TQad    : AdRtLog: game_reward[bid:ee462ccba2769bb2f0546ab4be1ba26a],[evt:GAdCloseBtnClick],[id:48199],[msg:null],[ext:null],t 0 c 1
+08-24 11:40:47.068  1368 12843 D AudioService: setStreamVolume(stream=3, index=0, calling=com.meizu.customizecenter)
+08-24 11:40:47.068  4059  4138 D WidgetManager: onAppSuggestionChanged
+08-24 11:40:47.068  1368 12843 D AudioService: MzcheckResumeRingerModeNormal: streamType = 3; isUnMute = false
+08-24 11:40:47.068 28885 28885 E statsdk : {"provider":"game_reward","zkadid":"48199","bid":"ee462ccba2769bb2f0546ab4be1ba26a","admtype":3,"interactype":2,"realspaceid":"48199","adid":"1153065236250165248","adSrc":"1","idFromAdSrc":"1153065236250165248","zkappid":"1234","event":"GAdCloseBtnClick","msg":"","extrmsg":"","space":0,"count":1,"version":1,"from":1,"gameName":"消灭怪兽","gameVersion":"1.0","gameId":"9b92b308b04e51430d02f80d4f257709","sessionId":"69a3160233084b63a741b64bc282d847","hostChannel":"FLK_A1006","source":1}
+08-24 11:40:47.068  4059  4138 D AppSuggestionManager: toAppBeanList begin
+08-24 11:40:47.068  1368 12843 D VolumeController: [GJ_DEBUG] postVolumeChanged: streamType = 3
+08-24 11:40:47.068  1368  8370 D Telecom : Logging: START_SESSION
+08-24 11:40:47.068  1368 12843 I AudioService: [GJ_DEBUG] setStreamVolume: streamType = 3, oldIndex = 0, index = 0, flags = 0
+08-24 11:40:47.069  1368  8370 V Telecom : Logging: END_SUBSESSION (dur: 0 mS): TSI.getCallState@B94
+08-24 11:40:47.069  1368  8370 D Telecom : Logging: END_SESSION (dur: 1 ms): TSI.getCallState@B94
+08-24 11:40:47.069  2184 10619 D GJ_DEBUG: =============volumeChanged===============
+08-24 11:40:47.069  8721  8721 I TQad    : VideoPlayer: release player
+08-24 11:40:47.069  2184 10619 D VolumePanel: [GJ_VOLUME] postVolumeChanged: streamType = 3, flags = 0
+08-24 11:40:47.069  2184  2184 D PhoneStatusBar: setHeadsUpViewVisibilityWithAnimation: setVisible = false
+08-24 11:40:47.069   964 10517 D NuPlayerDriver: reset(0xe46c1cb0) at state 6
+08-24 11:40:47.069  2184  2184 E BlurGlass: This API is not supported anymore. Use WindowManager.LayoutParams.FLAG_BLUR_BEHIND instead.
+08-24 11:40:47.069 28885 28885 I TQad    : AdRtLog: qReward[bid:20a8946b45c2d6c72dce73bec88e57ef],[evt:AdLdpExit],[id:48199],[msg:null],[ext:null],t 46686 c 0
+08-24 11:40:47.070 28885 28885 E statsdk : {"bid":"20a8946b45c2d6c72dce73bec88e57ef","provider":"qReward","zkadid":"48199","admtype":3,"interactype":2,"realspaceid":"48199","adid":"1153065236250165248","adSrc":"1","idFromAdSrc":"1153065236250165248","zkappid":"1234","event":"AdLdpExit","msg":"","extrmsg":"","space":46686,"count":0,"version":1,"from":1,"gameName":"消灭怪兽","gameVersion":"1.0","gameId":"9b92b308b04e51430d02f80d4f257709","sessionId":"69a3160233084b63a741b64bc282d847","hostChannel":"FLK_A1006","source":1}
+08-24 11:40:47.071  2184  2184 D StatusBarWindowManager: isLauncherForeground false,hasLockWallpaper false
+08-24 11:40:47.071   964 10517 D NuPlayerDriver: notifyListener_l(0xe46c1cb0), (8, 0, 0, -1), loop setting(0, 0)
+08-24 11:40:47.071  2184  2184 D StatusBarWindowManager: forceFaceRecognitionBrightness false,mScreenBrightnessFaceRecognition 0.0
+08-24 11:40:47.072   964 15768 D NuPlayerRenderer: signalTimeDiscontinuity sync queue
+08-24 11:40:47.072   964 15770 D NuPlayerRenderer: signalTimeDiscontinuity sync queue
+08-24 11:40:47.072  2184  2184 D ColorMasking: keyguard show true
+08-24 11:40:47.072  2184  2184 D PhoneStatusBar: dismissRecents
+08-24 11:40:47.072  2184  2184 D KeyguardMusicController: onShowKeyguard
+08-24 11:40:47.073   964 15767 D AudioTrack: pause(): 0xe420a680 mClientPid 8721
+08-24 11:40:47.073  2598  2598 D FlymeRecents: hideRecents
+08-24 11:40:47.073  2598  2598 I recents.Events: BackPress
+08-24 11:40:47.073  2598  2598 D SmartTouch: clearTaskMap
+08-24 11:40:47.073  2598  2598 I recents.Events: RecentActivityForceFinish
+08-24 11:40:47.074  2598  2598 D Event   : No subscribers registered for event class com.flyme.systemui.recents.events.RecentsEvents$RecentActivityForceFinish
+08-24 11:40:47.074  2598  2598 D Event   : No subscribers registered for event class de.greenrobot.event.NoSubscriberEvent
+08-24 11:40:47.075   964 15767 D AudioTrack: stop(): 0xe420a680, mState = 4
+08-24 11:40:47.076   946  1347 D AudioFlinger: acquireWakeLock_l() AudioOut_1D status 0
+08-24 11:40:47.076   946  1347 D AudioFlinger: updateWakeLockUidsPids_l: uids is empty!
+08-24 11:40:47.076   946  1347 D AudioFlinger: updateWakeLockUidsPids_l AudioOut_1D status 0
+08-24 11:40:47.077  1368 12843 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=77998717 mCount=24 mAcquireTime=-1
+08-24 11:40:47.077  1368 12843 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=147431000 mCount=24 mAcquireTime=-1
+08-24 11:40:47.078  1368 12843 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=631445000 mCount=362 mAcquireTime=-1
+08-24 11:40:47.078  1368 12843 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=631445000 mCount=362 mAcquireTime=-1
+08-24 11:40:47.079  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.079  2184  2184 D KeyguardMusicRemoteController: resetCurrentPosition mCurrentPosition = -1
+08-24 11:40:47.079  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.079  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.079  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.079  2184  2184 D KeyguardMusicController: bindMusicSupportService mBindSupportService = false,music playing false
+08-24 11:40:47.079  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.079  2184  2184 D KeyguardMusicView: KeyguardMusicView onShowKeyguard
+08-24 11:40:47.080  2184  2184 V KeyguardMusicView: updatePlayPauseState(), old=0, state=0
+08-24 11:40:47.081  2184  2184 D KeyguardMusicView: prepareLyricContent , can construct lrcContent 
+08-24 11:40:47.081  2184  2184 D KeyguardMusicView: setLrcContent mLrcList = []
+08-24 11:40:47.081  2184  2184 D KeyguardMusicController: requestLyric ...
+08-24 11:40:47.081  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.082  2184  2184 I KeyguardMusicController: version code is 8000011
+08-24 11:40:47.082  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.083  2184  2184 I KeyguardMusicController: version code is 8000011
+08-24 11:40:47.084  2184  2184 D KeyguardMusicView: mMusicController.getDuration() = -1
+08-24 11:40:47.084  2184  2184 D PanelView: resetViews
+08-24 11:40:47.085  2184  2184 D StatusBarWindowManager: isLauncherForeground false,hasLockWallpaper false
+08-24 11:40:47.085  2184  2184 D StatusBarWindowManager: forceFaceRecognitionBrightness false,mScreenBrightnessFaceRecognition 0.0
+08-24 11:40:47.085  2184  2184 V PhoneStatusBarPolicy: updateManagedProfile: mManagedProfileFocused: false
+08-24 11:40:47.085  2184  2184 I MeizuKeyguardThemeManager: setBarState ------ statusBarState=1,keyguardFadingAway=false,goingToFullShade=false,keyguardShowing=true
+08-24 11:40:47.085  2184  2184 I MeizuKeyguardThemeManager: setBarState 1
+08-24 11:40:47.085  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.085  2184  2184 D PanelView: setKeyguardStatusViewVisibility statusBarState = 1, isMusicPlaying = false,keyguardFadingAway = false, goingToFullShade = false, mStatusBarState = 0
+08-24 11:40:47.085  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.086  2184  2184 D KeyguardUpdateMonitor: hasTrust false,userAuthenticated false,isUnlockingAllow true
+08-24 11:40:47.091  2184  2184 D PhoneStatusBar: updateNotificationShade:分组beforeDeal,id=238677962,pkg=com.meizu.cloud,N=3,intercept=false,visibility=0
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShow=238677962
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade:分组beforeDeal,id=26,pkg=android,N=3,intercept=false,visibility=0
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShow=26
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade:分组beforeDeal,id=32,pkg=android,N=3,intercept=false,visibility=0
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShow=32
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShowAdd=238677962
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade: v.parent = com.android.systemui.statusbar.stack.NotificationStackScrollLayout{1396eff VFED..... ......ID 0,0-1080,2064 #7f0e046c app:id/notification_stack_scroller}
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShowAdd=26
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade: v.parent = com.android.systemui.statusbar.stack.NotificationStackScrollLayout{1396eff VFED..... ......ID 0,0-1080,2064 #7f0e046c app:id/notification_stack_scroller}
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShowAdd=32
+08-24 11:40:47.092  2184  2184 D PhoneStatusBar: updateNotificationShade: v.parent = com.android.systemui.statusbar.stack.NotificationStackScrollLayout{1396eff VFED..... ......ID 0,0-1080,2064 #7f0e046c app:id/notification_stack_scroller}
+08-24 11:40:47.092  2184  2184 D ChargeViewUtils: onNotificationCountChaned hasActiveNotifications = false, mHasActiveNotifications = false
+08-24 11:40:47.092  2184  2184 V PhoneStatusBar: updateNotificationCountChange,mLastHasNotification:false , hasActiveNotifications:false
+08-24 11:40:47.095 15674 15674 E GameLog : RenderHandler 9, from 150302057
+08-24 11:40:47.096 15674 15674 D Cocos2dxActivity: onVisibilityChanged false
+08-24 11:40:47.096  2184  2764 D LocationController: state.contentDescription=位置报告功能开启。 locationEnabled=true
+08-24 11:40:47.097  1368 21356 I BatteryStatsImpl: stop #12: mUpdateTime=234419682000 mTotalTime=231145793000 mCount=951 mAcquireTime=-1
+08-24 11:40:47.097  1368 21356 I BatteryStatsImpl: start #12: mUpdateTime=234419682000 mTotalTime=123823000 mCount=897 mAcquireTime=-1
+08-24 11:40:47.098  2184  2184 D StatusBarWindowManager: isLauncherForeground false,hasLockWallpaper false
+08-24 11:40:47.098  2184  2184 D StatusBarWindowManager: forceFaceRecognitionBrightness false,mScreenBrightnessFaceRecognition 0.0
+08-24 11:40:47.098  2184  2184 D PhoneStatusBar: disable: < expand ICONS* alerts SYSTEM_INFO* back home RECENT CLOCK* SEARCH quick_settings >
+08-24 11:40:47.099  1368  2051 D RealtimeNetworkDiag MSGHDR : Rcv invalid msg
+08-24 11:40:47.099  2184  2184 D PhoneStatusBar: disable
+08-24 11:40:47.099  2184  2184 D PhoneStatusBar: dismissRecents
+08-24 11:40:47.099  2184  2184 D PanelView: keyguard-shade mode, notify panel expansion change in keyguard-shade mode
+08-24 11:40:47.099  1368  2058 D NetworkManagement: oldRule = 0, newRule=0 for uid=10012 on chain 2
+08-24 11:40:47.099  2184  2184 D PanelView: collapse notification panel on keyguard-shade, do not notify panel expansion changed.
+08-24 11:40:47.099  1368  2058 D NetworkManagement: !!!!! Skipping change
+08-24 11:40:47.099  6495  6531 D AppLocker: isSameApp: 10044/10012
+08-24 11:40:47.100 15674 15674 E GameLog : RenderHandler 9, from 150302057
+08-24 11:40:47.100 15674 15674 D Cocos2dxActivity: onVisibilityChanged true
+08-24 11:40:47.101 28885 28885 I GAdLogger: GAdService.GameAdService:handleMessage 1598240395889 { when=0 what=100 arg1=2 arg2=1 target=com.zookingsoft.impl.GameAdServiceImpl$ServiceHandler }
+08-24 11:40:47.101 15674 15695 D AudioTrack: start(): 0xe043f280, mState = 2, mClientPid 15674
+08-24 11:40:47.101 28885 28885 I GAdLogger: Ctrl.AdControl:onGameResume
+08-24 11:40:47.101   964 18899 D NuPlayerDriver: start(0xe46c1e70), state is 6, eos is 0
+08-24 11:40:47.101   946  1143 D AudioFlinger: [RAMP_DEBUG] applyRampCount: mNeedsRampCount = 0, rampCount = 3
+08-24 11:40:47.102   946  1136 V APM_AudioPolicyManager: startOutput() output 21, stream 3, session 3153
+08-24 11:40:47.102  1368 12843 E AudioAttributes: Illegal value unmarshalling AudioAttributes, can't initialize bundle
+08-24 11:40:47.102   946  1136 V APM_AudioPolicyManager: selectOutputForMusicEffects activeOnly 1 outputs[1] flags 0x00000104
+08-24 11:40:47.102 28885 28885 I GAdLogger: GAdService.GameAdService:handleMessage 1598240395889 { when=0 what=103 arg1=5 target=com.zookingsoft.impl.GameAdServiceImpl$ServiceHandler }
+08-24 11:40:47.102   946  1136 V APM_AudioPolicyManager: selectOutputForMusicEffects selected output 13
+08-24 11:40:47.102  1368  8370 D Telecom : Logging: START_SESSION
+08-24 11:40:47.102   946  1136 V APM_AudioPolicyManager: getNewOutputDevice() selected device 2
+08-24 11:40:47.102   946  1136 V APM_AudioPolicyManager: setOutputDevice() device 0002 delayMs 0
+08-24 11:40:47.102 28885 28885 E statsdk : onResume
+08-24 11:40:47.102   946  1136 V APM_AudioPolicyManager: setOutputDevice() prevDevice 0x0002
+08-24 11:40:47.102 28885 28885 E statsdk : onResume,mEngineInitialized=true,mCallResumeCount=1
+08-24 11:40:47.102  1368  8370 V Telecom : Logging: END_SUBSESSION (dur: 0 mS): TSI.getCallState@B98
+08-24 11:40:47.102  1368  8370 D Telecom : Logging: END_SESSION (dur: 0 ms): TSI.getCallState@B98
+08-24 11:40:47.102   946  1136 V APM_AudioPolicyManager: setOutputDevice() setting same device 0x0002 or null device
+08-24 11:40:47.102   946  1136 V AudioPolicyManagerCustom: checkOutputForStrategy(): policy related outputs
+08-24 11:40:47.102  2184  2184 D PhoneStatusBar: postUri /storage/emulated/0/Android/obb/.VariedWallpaper/103730.jpg
+08-24 11:40:47.103  2184  2184 D KeyguardMusicController: onShowKeyguard
+08-24 11:40:47.103  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.103  2184  2184 D KeyguardMusicRemoteController: resetCurrentPosition mCurrentPosition = -1
+08-24 11:40:47.103  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.103 15674 15695 D AudioTrack: AudioTrackThread::resume
+08-24 11:40:47.103  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.103  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.103  2184  2184 D KeyguardMusicController: bindMusicSupportService mBindSupportService = false,music playing false
+08-24 11:40:47.103  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.103  2184  2184 D KeyguardMusicView: KeyguardMusicView onShowKeyguard
+08-24 11:40:47.103  2184  2184 V KeyguardMusicView: updatePlayPauseState(), old=0, state=0
+08-24 11:40:47.103   946  1346 D AudioFlinger: acquireWakeLock_l() AudioOut_15 status 0
+08-24 11:40:47.103   946  1346 D AudioFlinger: updateWakeLockUidsPids_l: uids[0] = 10104, pids[0] = 15674
+08-24 11:40:47.104  2184  2184 D KeyguardMusicView: prepareLyricContent , can construct lrcContent 
+08-24 11:40:47.104   946  1346 D AudioFlinger: updateWakeLockUidsPids_l AudioOut_15 status 0
+08-24 11:40:47.104  2184  2184 D KeyguardMusicView: setLrcContent mLrcList = []
+08-24 11:40:47.104 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.104 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.104  1368  8370 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=527667300 mCount=361 mAcquireTime=-1
+08-24 11:40:47.104  1368  8370 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=611271000 mCount=361 mAcquireTime=-1
+08-24 11:40:47.104   969  1131 I OMX-VDEC-1080P: omx_vdec::component_deinit() complete
+08-24 11:40:47.104   561   561 D audio_hw_spkr_prot: audio_extn_fbsp_get_parameters: Speaker protection disabled
+08-24 11:40:47.105   561   561 D audio_hw_extn: audio_extn_get_parameters: returns 
+08-24 11:40:47.104  2184  2184 D KeyguardMusicController: requestLyric ...
+08-24 11:40:47.105  1368  8370 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=527667300 mCount=361 mAcquireTime=-1
+08-24 11:40:47.105  1368  8370 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=611271000 mCount=361 mAcquireTime=-1
+08-24 11:40:47.105  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.105  1368  8370 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=56332 mCount=0 mAcquireTime=-1
+08-24 11:40:47.105  1368  8370 I BatteryStatsImpl: start #0: mUpdateTime=232175413000 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:47.105  1368  8370 I BatteryStatsImpl: start #20: mUpdateTime=232223925000 mTotalTime=280000 mCount=1 mAcquireTime=-1
+08-24 11:40:47.105  1368  8370 I BatteryStatsImpl: start #20: mUpdateTime=232175413000 mTotalTime=6000 mCount=1 mAcquireTime=-1
+08-24 11:40:47.105  1368 12843 I BatteryStatsImpl: start #-7: mUpdateTime=234419682000 mTotalTime=962020000 mCount=262 mAcquireTime=-1
+08-24 11:40:47.105  1368 12843 I BatteryStatsImpl: start #15: mUpdateTime=234419682000 mTotalTime=1558296499 mCount=165 mAcquireTime=-1
+08-24 11:40:47.105   946  1143 I hash_map_utils: key: 'is_hw_dec_session_available' value: 'audio/mpeg'
+08-24 11:40:47.105  2184  2184 I KeyguardMusicController: version code is 8000011
+08-24 11:40:47.106  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.106   561  5909 D audio_hw_primary: start_output_stream: enter: stream(0xeaa0d000)usecase(12: audio-ull-playback) devices(0x2)
+08-24 11:40:47.106  2184  2184 I KeyguardMusicController: version code is 8000011
+08-24 11:40:47.107  2184  2184 D KeyguardMusicView: mMusicController.getDuration() = -1
+08-24 11:40:47.107  2184  2184 D KeyguardUpdateMonitor: BootCompletetime:0
+08-24 11:40:47.107   561  5909 D audio_hw_primary: select_devices for use case (audio-ull-playback)
+08-24 11:40:47.107   561  5909 D audio_hw_primary: select_devices: out_snd_device(2: speaker) in_snd_device(0: )
+08-24 11:40:47.107   561  5909 I msm8916_platform: platform_check_and_set_codec_backend_cfg:becf: afe: bitwidth 16, samplerate 48000 channels 2, backend_idx 0 usecase = 12 device (speaker)
+08-24 11:40:47.107   561  5909 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+08-24 11:40:47.107   561  5909 I msm8916_platform: platform_check_and_set_codec_backend_cfg: becf: new_snd_devices[0] is speaker
+08-24 11:40:47.107   561  5909 I msm8916_platform: platform_check_codec_backend_cfg:becf: afe: Codec selected backend: 0 current bit width: 16 sample rate: 48000 channels: 2 usecase 12 device (speaker)
+08-24 11:40:47.107   561  5909 D msm8916_platform: platform_check_codec_backend_cfg:becf: afe: playback on codec device not supporting native playback set default Sample Rate(48k)
+08-24 11:40:47.107   561  5909 D msm8916_platform: platform_check_codec_backend_cfg:becf: afe: only 48KHZ sample rate is supported Configure afe to default Sample Rate(48k)
+08-24 11:40:47.107   561  5909 I msm8916_platform: platform_check_codec_backend_cfg:becf: afe: Codec selected backend: 0 updated bit width: 16 sample rate: 48000 channels: 2
+08-24 11:40:47.107   561  5909 D audio_hw_primary: check_usecases_codec_backend:becf: force routing 0
+08-24 11:40:47.107  1368  3433 D DeviceStateService: doCheckState handle=3
+08-24 11:40:47.107   561  5909 E msm8916_platform: platform_check_backends_match: Invalid snd_device = 
+08-24 11:40:47.107   561  5909 D audio_hw_primary: check_usecases_codec_backend:becf: (62) check_usecases curr device: speaker, usecase device: backends match 0
+08-24 11:40:47.107   561  5909 D audio_hw_primary: check_usecases_codec_backend:becf: check_usecases num.of Usecases to switch 0
+08-24 11:40:47.107   561  5909 E audio_hw_primary: enable_snd_device: hw.messagerecord.state 
+08-24 11:40:47.107   561  5909 D hardware_info: hw_info_append_hw_type : device_name = speaker
+08-24 11:40:47.107   561  5909 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(0) new_snd_devices(0)
+08-24 11:40:47.107   561  5909 D audio_hw_primary: enable_snd_device: snd_device(2: speaker)
+08-24 11:40:47.107   561  5909 D audio_route: Apply path: speaker
+08-24 11:40:47.107   964 15735 D AudioTrack: start(): 0xe4208380, mState = 2, mClientPid 15674
+08-24 11:40:47.108   946 23438 D AudioFlinger: [RAMP_DEBUG] applyRampCount: mNeedsRampCount = 0, rampCount = 3
+08-24 11:40:47.108 28725 15589 D AppLocker: isSameApp: 10012/10085
+08-24 11:40:47.109   946  1136 V APM_AudioPolicyManager: startOutput() output 29, stream 3, session 3161
+08-24 11:40:47.109   946  1136 V APM_AudioPolicyManager: selectOutputForMusicEffects activeOnly 1 outputs[1] flags 0x00000104
+08-24 11:40:47.109   946  1136 V APM_AudioPolicyManager: selectOutputForMusicEffects activeOnly 1 outputs[2] flags 0x00000008
+08-24 11:40:47.109   946  1136 W AudioFlinger: moveEffectChain_l() effect chain for session 0 not on source thread 0xf3c03d00
+08-24 11:40:47.109   946  1136 V APM_AudioPolicyManager: selectOutputForMusicEffects selected output 29
+08-24 11:40:47.109   946  1136 V APM_AudioPolicyManager: getNewOutputDevice() selected device 2
+08-24 11:40:47.109   946  1136 V APM_AudioPolicyManager: setOutputDevice() device 0002 delayMs 0
+08-24 11:40:47.109   946  1136 V APM_AudioPolicyManager: setOutputDevice() prevDevice 0x0002
+08-24 11:40:47.109   946  1136 V APM_AudioPolicyManager: setOutputDevice() setting same device 0x0002 or null device
+08-24 11:40:47.110   946  1136 V AudioPolicyManagerCustom: checkOutputForStrategy(): policy related outputs
+08-24 11:40:47.110 28725 15589 D matchType %s: content://com.meizu.familyguard.provider.BreakingScamContentProvider/breakingscam_status
+08-24 11:40:47.110   946 23438 D AudioFlinger: sampleRate 24000, state 5
+08-24 11:40:47.110   946 23438 D AudioFlinger: [GJ_DEBUG] sampleRate 44100 | 48000 | 1 | 0xf2c71380
+08-24 11:40:47.110   969  1131 I OMX-VDEC-1080P: Exit OMX vdec Destructor: fd=8
+08-24 11:40:47.111   969  1131 I OMX-VDEC-1080P: Video slvp perflock released
+08-24 11:40:47.111 28725 15589 D FamilyGuardProvider:  createQueryProcessor type= 1000
+08-24 11:40:47.111 28725 15589 I StatusQueryProcessor: ### query provider %scontent://com.meizu.familyguard.provider.BreakingScamContentProvider/breakingscam_status
+08-24 11:40:47.111   964 15735 W audio_utils_proc: fopen fail, Permission denied
+08-24 11:40:47.111   964 15733 D NuPlayerDriver: notifyListener_l(0xe46c1e70), (6, 0, 0, -1), loop setting(0, 1)
+08-24 11:40:47.099   964   964 W NuPlayerRendere: type=1400 audit(0.0:52673): avc: denied { search } for name="15674" dev="proc" ino=2941353 scontext=u:r:mediaserver:s0 tcontext=u:r:untrusted_app:s0:c512,c768 tclass=dir permissive=0
+08-24 11:40:47.111   946  1347 D AudioFlinger: updateWakeLockUidsPids_l: uids[0] = 10104, pids[0] = 15674
+08-24 11:40:47.111   946  1347 D AudioFlinger: updateWakeLockUidsPids_l AudioOut_1D status 0
+08-24 11:40:47.111  1368 21356 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=77998717 mCount=24 mAcquireTime=-1
+08-24 11:40:47.111  1368 21356 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=147431000 mCount=24 mAcquireTime=-1
+08-24 11:40:47.111  1368 21356 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=631445000 mCount=362 mAcquireTime=-1
+08-24 11:40:47.111  1368 21356 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=631445000 mCount=362 mAcquireTime=-1
+08-24 11:40:47.111  1368 21356 I BatteryStatsImpl: start #0: mUpdateTime=232223925000 mTotalTime=121332 mCount=0 mAcquireTime=-1
+08-24 11:40:47.111  1368 21356 I BatteryStatsImpl: start #0: mUpdateTime=232175413000 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:47.113   964 15771 D SurfaceUtils: disconnecting from surface 0xe31ae808, reason disconnectFromSurface
+08-24 11:40:47.114  6820  6835 D WorkingState: handleList: oriList : []
+08-24 11:40:47.114  6820  6835 D WorkingState: currentList : [15674]
+08-24 11:40:47.114  6820  6835 D WorkingState: addList: [15674]
+08-24 11:40:47.114  6820  6835 D WorkingState: removeList : []
+08-24 11:40:47.114  6820  6835 D WorkingState: mCurrentAudioMixs : {8721=AudioBase{args=8721, timeStap=238581916}}
+08-24 11:40:47.116   561  5909 D audio_hw_utils: audio_extn_utils_send_app_type_cfg: usecase->out_snd_device speaker
+08-24 11:40:47.116   561  5909 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(0) new_snd_devices(0)
+08-24 11:40:47.116  1368 12843 I BatteryStatsImpl: stop #-8: mUpdateTime=234419682000 mTotalTime=420447000 mCount=46 mAcquireTime=-1
+08-24 11:40:47.116   561  5909 I audio_hw_utils: ULL doesnt need sending app type cfg, returning
+08-24 11:40:47.116  1368 12843 I BatteryStatsImpl: stop #8: mUpdateTime=234419682000 mTotalTime=488632500 mCount=81 mAcquireTime=-1
+08-24 11:40:47.116   561  5909 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+08-24 11:40:47.116   561  5909 D ACDB-LOADER: ACDB -> send_audio_cal, acdb_id = 14, path = 0, app id = 0x11131, sample rate = 48000
+08-24 11:40:47.116   561  5909 D ACDB-LOADER: ACDB -> send_asm_topology
+08-24 11:40:47.116   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TOPOLOGY_ID
+08-24 11:40:47.116   561  5909 D ACDB-LOADER: ACDB -> send_adm_topology
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TOPOLOGY_ID
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> send_audtable
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE_SIZE
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> AUDIO_SET_AUDPROC_CAL
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> send_audvoltable
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_VOL_STEP_TABLE_SIZE
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_STEP_TABLE, vol index 0
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> AUDIO_SET_VOL_CAL cal type = 12
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TABLE_SIZE
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> send_audstrmtable
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TABLE_V2
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> audstrm_cal->cal_type.cal_data.cal_size = 16
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> send_afe_topology
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AFE_TOPOLOGY_ID
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> GET_AFE_TOPOLOGY_ID for adcd_id 14, Topology Id 112fc
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> send_afe_cal
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AFE_COMMON_TABLE_SIZE
+08-24 11:40:47.117   561  5909 D         : Failed to fetch the lookup information of the device 0000000E 
+08-24 11:40:47.117   561  5909 E ACDB-LOADER: Error: ACDB_CMD_GET_AFE_COMMON_TABLE_SIZE Returned = -19
+08-24 11:40:47.117   561  5909 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AFE_COMMON_TABLE
+08-24 11:40:47.117   561  5909 D         : Failed to fetch the lookup information of the device 0000000E 
+08-24 11:40:47.117   561  5909 E ACDB-LOADER: Error: ACDB AFE returned = -19
+08-24 11:40:47.118   561  5909 D ACDB-LOADER: ACDB -> AUDIO_SET_AFE_CAL
+08-24 11:40:47.118   561  5909 D ACDB-LOADER: ACDB -> send_hw_delay : acdb_id = 14 path = 0
+08-24 11:40:47.118   561  5909 D ACDB-LOADER: ACDB -> ACDB_AVSYNC_INFO: ACDB_CMD_GET_DEVICE_PROPERTY
+08-24 11:40:47.118   561  5909 D audio_hw_primary: enable_audio_route: apply mixer and update path: audio-ull-playback
+08-24 11:40:47.118   561  5909 D audio_route: Apply path: audio-ull-playback
+08-24 11:40:47.120   561  5909 D audio_hw_primary: select_devices: done
+08-24 11:40:47.120   561  5909 D audio_hw_primary: [FLYME_KARAOKE] start_output_stream: (0 |4), period_size = 192, rate = 48000
+08-24 11:40:47.120   964 15770 D SurfaceUtils: connecting to surface 0xe31ae808, reason onShutdown
+08-24 11:40:47.109  8721  8721 W Binder:8721_1: type=1400 audit(0.0:52674): avc: denied { search } for name="964" dev="proc" ino=1315303 scontext=u:r:platform_app:s0:c512,c768 tcontext=u:r:mediaserver:s0 tclass=dir permissive=0
+08-24 11:40:47.122  8721  8735 D BufferQueueProducer: [SurfaceTexture-0-8721-14](this:0xc7fe0400,id:14,api:3,p:964,c:8721) connect(P): api=3 producer=(964:???) producerControlledByApp=true
+08-24 11:40:47.124   561  5909 D msm8916_platform: platform_set_channel_map mixer_ctl_name:Playback Channel Map4
+08-24 11:40:47.124  2598  2598 W recents.Component: create a new LoadPlan to load thumbnail -- background
+08-24 11:40:47.125   561  5909 D msm8916_platform: platform_set_channel_map: set mapping(1 2 0 0 0 0 0 0) for channel:2
+08-24 11:40:47.126   964 15767 D AudioTrack: ~AudioTrack(): 0xe420a680
+08-24 11:40:47.126   964 15767 D AudioTrack: stop(): 0xe420a680, mState = 4
+08-24 11:40:47.127   946  1136 V APM_AudioPolicyManager: releaseOutput() 29
+08-24 11:40:47.130   964 15761 D NuPlayerDriver: notifyResetComplete(0xe46c1cb0)
+08-24 11:40:47.131   964 10517 D NuPlayerDriver: reset(0xe46c1cb0) at state 0
+08-24 11:40:47.131   964 10517 D SurfaceUtils: disconnecting from surface 0xe31c9008, reason disconnectNativeWindow
+08-24 11:40:47.132  8721  8721 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-24 11:40:47.132  8721  8721 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-24 11:40:47.134  8721  8721 V MediaPlayer: resetDrmState:  mDrmInfo=null mDrmProvisioningThread=null mPrepareDrmInProgress=false mActiveDrmScheme=false
+08-24 11:40:47.134  8721  8721 V MediaPlayer: cleanDrmObj: mDrmObj=null mDrmSessionId=null
+08-24 11:40:47.137  8721  8721 I TQad    : VideoPlayer: onSurfaceTextureDestroyed
+08-24 11:40:47.137 28885 28885 I TQad    : AdLandingCtrl: Receive LandingPage destroy
+08-24 11:40:47.137 28885 28885 I GAdLogger: Ctrl.AdControl:Landing onDestroy Info{bid='20a8946b45c2d6c72dce73bec88e57ef', ua='null', url='null', closeIntent='null', showWhenLock=1, delayActive=false, ext=null, flags=2, debug=true, adInfo=AdInfo{adId='1153065236250165248', adSrcId='1', adCodeId='48199', adIdFromAdSrc='1153065236250165248', adtype=1}},start=1598240400564,duration=46305
+08-24 11:40:47.138 28885 28885 E statsdk : {"adStartTime":1598240400564,"adEndTime":1598240447138,"adDuration":46,"adId":"1153065236250165248","adType":"RewardVideo","action":"lply_alive_time","startTime":"1598240400564","endTime":"1598240447138","duration":"46","msg":"false","version":1,"from":1,"gameName":"消灭怪兽","gameVersion":"1.0","gameId":"9b92b308b04e51430d02f80d4f257709","sessionId":"69a3160233084b63a741b64bc282d847","hostChannel":"FLK_A1006","source":1}
+08-24 11:40:47.138 28885 28885 I GAdLogger: Ctrl.AdControl:sendAdDetailShowTimeTrack(), data=AdTrackData{adId='1153065236250165248', adType='RewardVideo', startTime=1598240400564, endTime=1598240447138, duration=46}
+08-24 11:40:47.139 28885 28885 I GAdLogger: Ctrl.AdControl:doGameResume
+08-24 11:40:47.139 28885 28885 I TQad    : AdTracker: doNotifyEvent 3 1
+08-24 11:40:47.140 28885 28885 I TQad    : QAdCtrl: [onStartApk]: tbopen://m.taobao.com/tbopen/index.html?action=ali.open.nav&module=h5&bootImage=0&source=sb&appkey=24585258&smbSid=5KKcF7P%2F0ycCARsm%2Bkhr1lRu_1596530824621&rbbt=bc.mallDetail.6.0.0&params=%7B%22fid%22%3A%22crsFe5NebCD%22%2C%22mtopCostTime%22%3A%2210449%22%2C%22_t%22%3A%221596530835115%22%7D&h5Url=https%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D619540031605%26ali_refid%3Da3_430673_1006%253A1155920083%253AN%253AUbNf5k7XDyyFIgWRG3DRsg%253D%253D%253A76fdbfe1251ffb55cd0efc8785566ef8%26ali_trackid%3D1_76fdbfe1251ffb55cd0efc8785566ef8%26spm%3Da231k.13731936.21333857.11%26skuId%3D4545113399226%26point%3D%25257B%252522from%252522%25253A%252522h5%252522%25252C%252522ali_trackid%252522%25253A%2525221_76fdbfe1251ffb55cd0efc8785566ef8%252522%25252C%252522h5_uid%252522%25253A%2525225KKcF7P%25252F0ycCARsm%25252Bkhr1lRu%252522%25252C%252522ap_uri%252522%25253A%252522sb_redirect_auto%252522%25252C%252522page%252522%25253A%252522mallDetail%252522%25252C%252522callType%252522%25253A%252522scheme%252522%25257D
+08-24 11:40:47.141 28885  8984 W AdTracker: 
+08-24 11:40:47.142 28885 15059 I TQad    : UrlTrack1 : http://ads.vanmatt.com:9902/api/report.do?etype=3&data=lvovyHqTKpklHlApZwyYBvJKxTkI02oaK%2BpWEiI1JX%2FaU94dX1%2Bgq0g30Xa7N9O2bSMiioAmHlOU%2B5FII2lw9gRMYYO0%2FwozsXMJJylbQyWsFphRkNKtHvhIYDwEGKLt0NFnAib7zmHW948SnC6pE0wcT6CNI%2BjW0lXDOCt%2BRBxU7GGw8f4agrZAxSrfJ9LikNUEi1xmDNToVmRlTry8aGF%2BakjhSFjfB4dz4B8EL7Xqs%2BEwR6sqznuOP33hBlL8X3x59i%2BnjPkSXKQVkA21gR%2FVbWPCOGqEU5mQpPb7QumU523gI17%2FIwhZUROhBNjlv5tywqOJkmBoVHzSY%2BCm72Fu0zj5L%2FQLP040SAFTHTu2UIbwCZOm1pU1z4FbxQ4ryDNHSZfL2VXoLTKV9cHQ1cy8tQ9YyoJ656weSD5bIR7aI73c1%2BMY48HcOJJPZjLpgSkSbuuWiGIaE6pkwMlCUQv8LZX4OvO97zj1ZMXVbgwrQbyQ9HuZT9ynJ%2BqTJ2uI6K3HWAfpFSftRXE728PKni%2FBIR5oERlr%2BM%2BjRGD9XFIsRCP5J4Q6pUq5ivEbdYEsJEnmCqfAi35d4hSN17eJU6kg4MH2wmVwI2Cdi%2B%2BuFpafLjH1L943qwFbtKzUHAMrfST879KZOwzQPFn3JeHl2g%3D%3D&ach=_CLKTPEZK_
+08-24 11:40:47.147 28885 28885 W GAdLogger: Ctrl.AdControl:showRewardAd onStartApk true tbopen://m.taobao.com/tbopen/index.html?action=ali.open.nav&module=h5&bootImage=0&source=sb&appkey=24585258&smbSid=5KKcF7P%2F0ycCARsm%2Bkhr1lRu_1596530824621&rbbt=bc.mallDetail.6.0.0&params=%7B%22fid%22%3A%22crsFe5NebCD%22%2C%22mtopCostTime%22%3A%2210449%22%2C%22_t%22%3A%221596530835115%22%7D&h5Url=https%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D619540031605%26ali_refid%3Da3_430673_1006%253A1155920083%253AN%253AUbNf5k7XDyyFIgWRG3DRsg%253D%253D%253A76fdbfe1251ffb55cd0efc8785566ef8%26ali_trackid%3D1_76fdbfe1251ffb55cd0efc8785566ef8%26spm%3Da231k.13731936.21333857.11%26skuId%3D4545113399226%26point%3D%25257B%252522from%252522%25253A%252522h5%252522%25252C%252522ali_trackid%252522%25253A%2525221_76fdbfe1251ffb55cd0efc8785566ef8%252522%25252C%252522h5_uid%252522%25253A%2525225KKcF7P%25252F0ycCARsm%25252Bkhr1lRu%252522%25252C%252522ap_uri%252522%25253A%252522sb_redirect_auto%252522%25252C%252522page%252522%25253A%252522mallDetail%252522%25252C%252522callType%252522%25253A%252522scheme%252522%25257D
+08-24 11:40:47.148 28885 28885 W GAdLogger: Ctrl.AdControl:SEND S2C >> 6 2224 Bundle[{12=tbopen://m.taobao.com/tbopen/index.html?action=ali.open.nav&module=h5&bootImage=0&source=sb&appkey=24585258&smbSid=5KKcF7P%2F0ycCARsm%2Bkhr1lRu_1596530824621&rbbt=bc.mallDetail.6.0.0&params=%7B%22fid%22%3A%22crsFe5NebCD%22%2C%22mtopCostTime%22%3A%2210449%22%2C%22_t%22%3A%221596530835115%22%7D&h5Url=https%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D619540031605%26ali_refid%3Da3_430673_1006%253A1155920083%253AN%253AUbNf5k7XDyyFIgWRG3DRsg%253D%253D%253A76fdbfe1251ffb55cd0efc8785566ef8%26ali_trackid%3D1_76fdbfe1251ffb55cd0efc8785566ef8%26spm%3Da231k.13731936.21333857.11%26skuId%3D4545113399226%26point%3D%25257B%252522from%252522%25253A%252522h5%252522%25252C%252522ali_trackid%252522%25253A%2525221_76fdbfe1251ffb55cd0efc8785566ef8%252522%25252C%252522h5_uid%252522%25253A%2525225KKcF7P%25252F0ycCARsm%25252Bkhr1lRu%252522%25252C%252522ap_uri%252522%25253A%252522sb_redirect_auto%252522%25252C%252522page%252522%25253A%252522mallDetail%252522%25252C%252522callType%252522%25253A%252522scheme%252522%25257D, 13=1153065236250165248, 14=101, 16=1, 17=0, 18=0}]
+08-24 11:40:47.148 28885 28885 I GAdLogger: GAdService.GameAdService:send command to client 1 false false cmd = 17 6 2224 Bundle[{12=tbopen://m.taobao.com/tbopen/index.html?action=ali.open.nav&module=h5&bootImage=0&source=sb&appkey=24585258&smbSid=5KKcF7P%2F0ycCARsm%2Bkhr1lRu_1596530824621&rbbt=bc.mallDetail.6.0.0&params=%7B%22fid%22%3A%22crsFe5NebCD%22%2C%22mtopCostTime%22%3A%2210449%22%2C%22_t%22%3A%221596530835115%22%7D&h5Url=https%3A%2F%2Fdetail.m.tmall.com%2Fitem.htm%3Fid%3D619540031605%26ali_refid%3Da3_430673_1006%253A1155920083%253AN%253AUbNf5k7XDyyFIgWRG3DRsg%253D%253D%253A76fdbfe1251ffb55cd0efc8785566ef8%26ali_trackid%3D1_76fdbfe1251ffb55cd0efc8785566ef8%26spm%3Da231k.13731936.21333857.11%26skuId%3D4545113399226%26point%3D%25257B%252522from%252522%25253A%252522h5%252522%25252C%252522ali_trackid%252522%25253A%2525221_76fdbfe1251ffb55cd0efc8785566ef8%252522%25252C%252522h5_uid%252522%25253A%2525225KKcF7P%25252F0ycCARsm%25252Bkhr1lRu%252522%25252C%252522ap_uri%252522%25253A%252522sb_redirect_auto%252522%25252C%252522page%252522%25253A%252522mallDetail%252522%25252C%252522callType%252522%25253A%252522scheme%252522%25257D, 13=1153065236250165248, 14=101, 16=1, 17=0, 18=0}]
+08-24 11:40:47.156  2598  2598 D recents.Proxy: launchedFromHome = false
+08-24 11:40:47.157  1368  8370 I BatteryStatsImpl: stop #0: mUpdateTime=232223925000 mTotalTime=9289579 mCount=117 mAcquireTime=-1
+08-24 11:40:47.157  1368  8370 I BatteryStatsImpl: stop #0: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:47.157  1368  8370 I BatteryStatsImpl: stop #20: mUpdateTime=232223925000 mTotalTime=953903000 mCount=3669 mAcquireTime=-1
+08-24 11:40:47.157  1368  8370 I BatteryStatsImpl: stop #20: mUpdateTime=0 mTotalTime=0 mCount=0 mAcquireTime=-1
+08-24 11:40:47.163  2598  2598 D recents.Proxy: getThumbnail, taskid = 893
+08-24 11:40:47.164  1368 21356 D skia    : SkJpegCodec::onGetPixels enter
+08-24 11:40:47.166  1368  3433 D DeviceStateService: doCheckLockStateRpmb: the result is: 0
+08-24 11:40:47.169  1368  3433 D DeviceStateService: doCheckState handle=4
+08-24 11:40:47.176  1368 21356 D skia    : SkJpegCodec::onGetPixels exit
+08-24 11:40:47.184  1368  3433 D DeviceStateService: doCheckLockStateRpmb: the result is: 0
+08-24 11:40:47.187  2598  2598 I recents.TaskLoadPlan: 		 load thumbnail from system
+08-24 11:40:47.187  2598  2598 W recents.Performance: preload while task Change spend : 64
+08-24 11:40:47.190  1368  3433 D DeviceStateService: doCheckState handle=3
+08-24 11:40:47.210   561  5909 D audio_hw_primary: start_output_stream: exit
+08-24 11:40:47.210   561  5973 D audio_hw_primary: start_output_stream: enter: stream(0xeaa0f800)usecase(0: deep-buffer-playback) devices(0x2)
+08-24 11:40:47.212   561  5973 D audio_hw_primary: select_devices for use case (deep-buffer-playback)
+08-24 11:40:47.212   561  5973 D audio_hw_primary: select_devices: out_snd_device(2: speaker) in_snd_device(0: )
+08-24 11:40:47.212   561  5973 I msm8916_platform: platform_check_and_set_codec_backend_cfg:becf: afe: bitwidth 16, samplerate 48000 channels 2, backend_idx 0 usecase = 0 device (speaker)
+08-24 11:40:47.212   561  5973 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+08-24 11:40:47.212   561  5973 I msm8916_platform: platform_check_and_set_codec_backend_cfg: becf: new_snd_devices[0] is speaker
+08-24 11:40:47.212   561  5973 I msm8916_platform: platform_check_codec_backend_cfg:becf: afe: Codec selected backend: 0 current bit width: 16 sample rate: 48000 channels: 2 usecase 0 device (speaker)
+08-24 11:40:47.212   561  5973 D msm8916_platform: platform_check_codec_backend_cfg:napb: (0) - (audio-ull-playback)id (12) sr 48000 bw (16) ch (2) device speaker
+08-24 11:40:47.212   561  5973 D msm8916_platform: platform_check_codec_backend_cfg:becf: afe: playback on codec device not supporting native playback set default Sample Rate(48k)
+08-24 11:40:47.212   561  5973 D msm8916_platform: platform_check_codec_backend_cfg:becf: afe: only 48KHZ sample rate is supported Configure afe to default Sample Rate(48k)
+08-24 11:40:47.212   561  5973 I msm8916_platform: platform_check_codec_backend_cfg:becf: afe: Codec selected backend: 0 updated bit width: 16 sample rate: 48000 channels: 2
+08-24 11:40:47.212   561  5973 D audio_hw_primary: check_usecases_codec_backend:becf: force routing 0
+08-24 11:40:47.213   561  5973 D audio_hw_primary: check_usecases_codec_backend:becf: (62) check_usecases curr device: speaker, usecase device:speaker backends match 1
+08-24 11:40:47.213   561  5973 E msm8916_platform: platform_check_backends_match: Invalid snd_device = 
+08-24 11:40:47.213   561  5973 D audio_hw_primary: check_usecases_codec_backend:becf: (62) check_usecases curr device: speaker, usecase device: backends match 0
+08-24 11:40:47.213   561  5973 D audio_hw_primary: check_usecases_codec_backend:becf: check_usecases num.of Usecases to switch 0
+08-24 11:40:47.213   561  5973 E audio_hw_primary: enable_snd_device: hw.messagerecord.state 
+08-24 11:40:47.213   561  5973 D hardware_info: hw_info_append_hw_type : device_name = speaker
+08-24 11:40:47.213   561  5973 D audio_hw_utils: audio_extn_utils_send_app_type_cfg: usecase->out_snd_device speaker
+08-24 11:40:47.213   561  5973 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(0) new_snd_devices(0)
+08-24 11:40:47.214   561  5973 D audio_hw_utils: audio_extn_btsco_get_sample_rate:Not a BT SCO device, need not update sampling rate
+08-24 11:40:47.215   561  5973 I audio_hw_utils: send_app_type_cfg_for_device PLAYBACK app_type 69936, acdb_dev_id 14, sample_rate 48000, snd_device_be_idx 43
+08-24 11:40:47.215   583   632 E ANDR-PERF-MPCTL: Invalid profile no. 0, total profiles 0 only
+08-24 11:40:47.216   561  5973 D msm8916_platform: platform_split_snd_device: snd_device(2) num devices(1) new_snd_devices(0)
+08-24 11:40:47.216   561  5973 D ACDB-LOADER: ACDB -> send_audio_cal, acdb_id = 14, path = 0, app id = 0x11130, sample rate = 48000
+08-24 11:40:47.216   561  5973 D ACDB-LOADER: ACDB -> send_asm_topology
+08-24 11:40:47.216   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TOPOLOGY_ID
+08-24 11:40:47.216   561  5973 D ACDB-LOADER: ACDB -> send_adm_topology
+08-24 11:40:47.216   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TOPOLOGY_ID
+08-24 11:40:47.217 28885  8832 D LogEx   : bdwan-postRealTimeLog() ok
+08-24 11:40:47.218   561  5973 D ACDB-LOADER: ACDB -> send_audtable
+08-24 11:40:47.218   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE_SIZE
+08-24 11:40:47.218   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_COMMON_TABLE
+08-24 11:40:47.218   561  5973 D ACDB-LOADER: ACDB -> AUDIO_SET_AUDPROC_CAL
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> send_audvoltable
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_VOL_STEP_TABLE_SIZE
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_GAIN_DEP_STEP_TABLE, vol index 0
+08-24 11:40:47.222   561  5973 D         : Failed to fetch the lookup information of the device 0000000E 
+08-24 11:40:47.222   561  5973 E ACDB-LOADER: Error: ACDB AudProc vol returned = -19
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> AUDIO_SET_VOL_CAL cal type = 12
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TABLE_SIZE
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> send_audstrmtable
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AUDPROC_STREAM_TABLE_V2
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> audstrm_cal->cal_type.cal_data.cal_size = 456
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> send_afe_topology
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AFE_TOPOLOGY_ID
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> GET_AFE_TOPOLOGY_ID for adcd_id 14, Topology Id 112fc
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> send_afe_cal
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AFE_COMMON_TABLE_SIZE
+08-24 11:40:47.222   561  5973 D         : Failed to fetch the lookup information of the device 0000000E 
+08-24 11:40:47.222   561  5973 E ACDB-LOADER: Error: ACDB_CMD_GET_AFE_COMMON_TABLE_SIZE Returned = -19
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> ACDB_CMD_GET_AFE_COMMON_TABLE
+08-24 11:40:47.222   561  5973 D         : Failed to fetch the lookup information of the device 0000000E 
+08-24 11:40:47.222   561  5973 E ACDB-LOADER: Error: ACDB AFE returned = -19
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> AUDIO_SET_AFE_CAL
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> send_hw_delay : acdb_id = 14 path = 0
+08-24 11:40:47.222   561  5973 D ACDB-LOADER: ACDB -> ACDB_AVSYNC_INFO: ACDB_CMD_GET_DEVICE_PROPERTY
+08-24 11:40:47.222   561  5973 D audio_hw_primary: enable_audio_route: apply mixer and update path: deep-buffer-playback
+08-24 11:40:47.222   561  5973 D audio_route: Apply path: deep-buffer-playback
+08-24 11:40:47.224   561  5973 D audio_hw_primary: select_devices: done
+08-24 11:40:47.224   561  5973 D audio_hw_primary: [FLYME_KARAOKE] start_output_stream: (0 |0), period_size = 1920, rate = 48000
+08-24 11:40:47.227  1368  3433 D DeviceStateService: doCheckLockStateRpmb: the result is: 0
+08-24 11:40:47.229   561  5973 D msm8916_platform: platform_set_channel_map mixer_ctl_name:Playback Channel Map0
+08-24 11:40:47.230  1368  3433 D DeviceStateService: doCheckState handle=4
+08-24 11:40:47.230   561  5973 D msm8916_platform: platform_set_channel_map: set mapping(1 2 0 0 0 0 0 0) for channel:2
+08-24 11:40:47.231 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.233  1368  3433 D DeviceStateService: doCheckLockStateRpmb: the result is: 0
+08-24 11:40:47.234  2184  2184 D KeyguardUpdateMonitor: faceRecognitionRun false,mKeyguardShowing true
+08-24 11:40:47.234 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.236  2184  2184 D KeyguardUpdateMonitor: onKeyguardVisibilityChanged(true)
+08-24 11:40:47.237  2184  2184 V KeyguardStatusView: refresh statusview showing:true
+08-24 11:40:47.239 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.243 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 1 line
+08-24 11:40:47.247 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.248  2184  2184 D KeyguardUpdateMonitor: updateFingerprintListeningState true,mFingerprintRunningState 0
+08-24 11:40:47.251 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.255 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.256  2184  2184 D KeyguardUpdateMonitor: shouldListenForFaceRecognition :false
+08-24 11:40:47.259 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.263 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.263  2184  2184 D KeyguardViewMediator: adjustStatusBarLocked: mShowing=true mOccluded=false isSecure=true --> flags=0x3200000
+08-24 11:40:47.268 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.268 28885 15059 I TQad    : AdTracker: MSG_HTTP_GET et = 3 response [s:true,code:200,m:null] url = http://ads.vanmatt.com:9902/api/report.do?etype=3&data=lvovyHqTKpklHlApZwyYBvJKxTkI02oaK%2BpWEiI1JX%2FaU94dX1%2Bgq0g30Xa7N9O2bSMiioAmHlOU%2B5FII2lw9gRMYYO0%2FwozsXMJJylbQyWsFphRkNKtHvhIYDwEGKLt0NFnAib7zmHW948SnC6pE0wcT6CNI%2BjW0lXDOCt%2BRBxU7GGw8f4agrZAxSrfJ9LikNUEi1xmDNToVmRlTry8aGF%2BakjhSFjfB4dz4B8EL7Xqs%2BEwR6sqznuOP33hBlL8X3x59i%2BnjPkSXKQVkA21gR%2FVbWPCOGqEU5mQpPb7QumU523gI17%2FIwhZUROhBNjlv5tywqOJkmBoVHzSY%2BCm72Fu0zj5L%2FQLP040SAFTHTu2UIbwCZOm1pU1z4FbxQ4ryDNHSZfL2VXoLTKV9cHQ1cy8tQ9YyoJ656weSD5bIR7aI73c1%2BMY48HcOJJPZjLpgSkSbuuWiGIaE6pkwMlCUQv8LZX4OvO97zj1ZMXVbgwrQbyQ9HuZT9ynJ%2BqTJ2uI6K3HWAfpFSftRXE728PKni%2FBIR5oERlr%2BM%2BjRGD9XFIsRCP5J4Q6pUq5ivEbdYEsJEnmCqfAi35d4hSN17eJU6kg4MH2wmVwI2Cdi%2B%2BuFpafLjH1L943qwFbtKzUHAMrfST879KZOwzQPFn3JeHl2g%3D%3D&ach=_CLKTPEZK_
+08-24 11:40:47.268 28885 15059 W TQad    : AdTracker: MSG_HTTP_GET resp 
+08-24 11:40:47.271 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.273  1368  3433 W ActivityManager: Sending non-protected broadcast flyme.intent.action.TOP_WINDOW_FULLSCREEN_CHANGED from system 2184:com.android.systemui/u0a44 pkg com.android.systemui
+08-24 11:40:47.274  2184  2184 D PhoneStatusBar: updateTopWindowIsFullscreen=false
+08-24 11:40:47.274  2184  2184 D PhoneStatusBar: isTopWindowIsFullscreen -------------false
+08-24 11:40:47.275 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.276  2184  2184 D PhoneStatusBar: updateNotificationShade:分组beforeDeal,id=238677962,pkg=com.meizu.cloud,N=3,intercept=false,visibility=0
+08-24 11:40:47.276  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShow=238677962
+08-24 11:40:47.276  2184  2184 D PhoneStatusBar: updateNotificationShade:分组beforeDeal,id=26,pkg=android,N=3,intercept=false,visibility=0
+08-24 11:40:47.277  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShow=26
+08-24 11:40:47.277  2184  2184 D PhoneStatusBar: updateNotificationShade:分组beforeDeal,id=32,pkg=android,N=3,intercept=false,visibility=0
+08-24 11:40:47.277  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShow=32
+08-24 11:40:47.277  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShowAdd=238677962
+08-24 11:40:47.277  2184  2184 D PhoneStatusBar: updateNotificationShade: v.parent = com.android.systemui.statusbar.stack.NotificationStackScrollLayout{1396eff VFED..... ......ID 0,0-1080,2064 #7f0e046c app:id/notification_stack_scroller}
+08-24 11:40:47.277  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShowAdd=26
+08-24 11:40:47.278  2184  2184 D PhoneStatusBar: updateNotificationShade: v.parent = com.android.systemui.statusbar.stack.NotificationStackScrollLayout{1396eff VFED..... ......ID 0,0-1080,2064 #7f0e046c app:id/notification_stack_scroller}
+08-24 11:40:47.278  2184  2184 D PhoneStatusBar: updateNotificationShade:分组toShowAdd=32
+08-24 11:40:47.278  2184  2184 D PhoneStatusBar: updateNotificationShade: v.parent = com.android.systemui.statusbar.stack.NotificationStackScrollLayout{1396eff VFED..... ......ID 0,0-1080,2064 #7f0e046c app:id/notification_stack_scroller}
+08-24 11:40:47.279 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.279  2184  2184 D ChargeViewUtils: onNotificationCountChaned hasActiveNotifications = false, mHasActiveNotifications = false
+08-24 11:40:47.279  2184  2184 V PhoneStatusBar: updateNotificationCountChange,mLastHasNotification:false , hasActiveNotifications:false
+08-24 11:40:47.280  2184  2184 D PhoneStatusBar: updateTopWindowIsFullscreen=false
+08-24 11:40:47.280  2184  2184 I Choreographer: Skipped 13 frames!  The application may be doing too much work on its main thread.
+08-24 11:40:47.283 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.287 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.288  2184  2184 D QSPanel : calculateQSValue  mEnabledTilesNum:15 mAllTilesNum:22 mEnabledTilesRows:3, mColumns = 5, measureHeight = 1539, mQsMaxHeight = 1941, mNavigationBarBottomHeight = 0,maxRow 5
+08-24 11:40:47.289   561  5973 D audio_hw_primary: start_output_stream: exit
+08-24 11:40:47.289   946  1347 D AudioFlinger: write() process 177 ms, mBufferMs 40
+08-24 11:40:47.291 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.293  1368  1408 D STATUSBARCOLOR: mLastLightStatusBar=false,inLightMode=false,window=Window{1fff728 u0 StatusBar}
+08-24 11:40:47.295 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.312 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 4 lines
+08-24 11:40:47.315 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.316  2184  2184 D QSPanel : calculateQSValue  mEnabledTilesNum:15 mAllTilesNum:22 mEnabledTilesRows:3, mColumns = 5, measureHeight = 1539, mQsMaxHeight = 1941, mNavigationBarBottomHeight = 96,maxRow 5
+08-24 11:40:47.319 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.320   595  3243 D BufferQueueProducer: [StatusBar#0](this:0x796b5c1000,id:4,api:1,p:2184,c:595) connect(P): api=1 producer=(2184:com.android.systemui) producerControlledByApp=true
+08-24 11:40:47.322 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.332 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 2 lines
+08-24 11:40:47.335 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.337  2184  2203 I zygote  : NativeAlloc concurrent copying GC freed 87119(3MB) AllocSpace objects, 12(3MB) LOS objects, 54% free, 10MB/22MB, paused 340us total 121.436ms
+08-24 11:40:47.339 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.344 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.345  4059  4138 D AppSuggestionManager: toAppBeanList end size = 23, result.size = 8, time = 277
+08-24 11:40:47.346  4059  4138 D AppSuggestionManager: toAppBeanList begin
+08-24 11:40:47.347 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.352 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.354  6820  6854 D AppProcess: permission:com.meizu.customizecenter uid:10011 true
+08-24 11:40:47.355 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.355  1368  1368 D PowerManagerService: setScreenWakeLockDisabledForPackageNameInternal: packageName = com.meizu.customizecenter uid = 10011 disable = false
+08-24 11:40:47.359 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.360  4059  4138 D AppSuggestionManager: toAppBeanList end size = 1, result.size = 1, time = 14
+08-24 11:40:47.360  2184  2184 D StatusBarWindowManager: isLauncherForeground false,hasLockWallpaper false
+08-24 11:40:47.360  2184  2184 D StatusBarWindowManager: forceFaceRecognitionBrightness false,mScreenBrightnessFaceRecognition 0.0
+08-24 11:40:47.363 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.367 28885  8832 D LogEx   : bdwan-postRealTimeLog() ok
+08-24 11:40:47.367 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.367  4059  4115 D CardProviderManager: updateCard : 104881132, cardProvider : com.meizu.assistant.ui.card.AppSuggestionCardProvider@647b644,partial:false
+08-24 11:40:47.371 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.371  3167  3184 D AppLocker: isSameApp: 1000/10020
+08-24 11:40:47.376 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.378 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 1 line
+08-24 11:40:47.383 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.384  3167  3184 D AppLocker: isSameApp: 1000/10020
+08-24 11:40:47.386 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.387   946  1347 D AudioFlinger: mixer(0xf3603640) throttle end: throttle time(43)
+08-24 11:40:47.391 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.397  4059 13982 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.startService:1555 android.content.ContextWrapper.startService:650 com.meizu.assistant.AssistantApp.startService:284 com.meizu.assistant.ui.service.WidgetProviderService.a:77 com.meizu.assistant.ui.widget.AppSuggestionSmallWidgetProvider$1.a:26 
+08-24 11:40:47.395 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.398  1368  3433 D Interception: isProtectedCallee the calleePkg: com.meizu.assistant is system application.
+08-24 11:40:47.398  1368  3433 W Interception: reason:2)callee system_app, default as allow, interception = false  details<<runType:retrieve_service isFgAction:false callerPkg:com.meizu.assistant calleePkg:com.meizu.assistant processName:com.meizu.assistant Intent { act=com.meizu.assistant.action.UPDATE_SMALL_APP_SUGGESTION_WIDGET pkg=com.meizu.assistant cmp=com.meizu.assistant/.ui.service.WidgetProviderService (has extras) }>>
+08-24 11:40:47.398 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.399  1368  3433 V ActivityManager: Freeze: try to start service caller:android.app.IApplicationThread$Stub$Proxy@b3a00af, callingPid:4059, callingUid:1000
+08-24 11:40:47.403 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 1 line
+08-24 11:40:47.406 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.407  3167  3167 D AnimateHeight: setHeight:0
+08-24 11:40:47.408  4059  4138 D AppSuggestionManager: toAppBeanList begin
+08-24 11:40:47.411 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.435 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 6 lines
+08-24 11:40:47.439 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.442  2184  2184 D StatusBar/NavBarView: setHomeChipEnable=false
+08-24 11:40:47.442  2184  2184 D KeyguardMusicRemoteController: onClientChange clearing = false
+08-24 11:40:47.442  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.442  2184  2184 D KeyguardMusicRemoteController: onClientPlaybackStateUpdate 0, meizu music = true
+08-24 11:40:47.442  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.442  2184  2184 D KeyguardMusicView: setLyricEnabled enable = true
+08-24 11:40:47.442  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.443 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.443  2184  2184 D KeyguardMusicRemoteController: onClientMetadataUpdate metadataEditor = android.media.RemoteController$MetadataEditor@d02bf91
+08-24 11:40:47.443  1368 12843 W System.err: java.io.FileNotFoundException: /sys/cs_press/cs_press/sleep (No such file or directory)
+08-24 11:40:47.443  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.443  1368 12843 W System.err: 	at java.io.FileOutputStream.open0(Native Method)
+08-24 11:40:47.443  1368 12843 W System.err: 	at java.io.FileOutputStream.open(FileOutputStream.java:292)
+08-24 11:40:47.443  1368 12843 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:223)
+08-24 11:40:47.443  1368 12843 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+08-24 11:40:47.443  1368 12843 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:63)
+08-24 11:40:47.443  1368 12843 W System.err: 	at meizu.statusbar.FlymeStatusBarManagerService.write(FlymeStatusBarManagerService.java:198)
+08-24 11:40:47.443  2184  2184 D KeyguardMusicRemoteController: resetCurrentPosition mCurrentPosition = -1
+08-24 11:40:47.443  1368 12843 W System.err: 	at meizu.statusbar.FlymeStatusBarManagerService.setHomeChipEnable(FlymeStatusBarManagerService.java:186)
+08-24 11:40:47.443  1368 12843 W System.err: 	at meizu.statusbar.IFlymeStatusBarService$Stub.onTransact(IFlymeStatusBarService.java:158)
+08-24 11:40:47.443  1368 12843 W System.err: 	at android.os.Binder.execTransact(Binder.java:702)
+08-24 11:40:47.443  2184  2184 D KeyguardMusicRemoteController: bitmap with = 540, height = 540,bitmap android.graphics.Bitmap@bafeef6
+08-24 11:40:47.444  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.444  2184  2184 D KeyguardMusicRemoteController: resetCurrentPosition mCurrentPosition = -1
+08-24 11:40:47.444  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.447 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.450  2184  2184 D KeyguardMusicController: show music is true
+08-24 11:40:47.450  2184  2184 D KeyguardMusicView: onClientMetadataUpdate
+08-24 11:40:47.451  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.451 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.454  2184  2184 D KeyguardMusicController: show music is true
+08-24 11:40:47.454  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.454  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:47.454  2184  2184 D KeyguardMusicController: bindMusicSupportService mBindSupportService = false,music playing false
+08-24 11:40:47.454  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.455 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.456  2184  2184 D KeyguardMusicController: show music is true
+08-24 11:40:47.458  2184  2184 E BlurGlass: This API is not supported anymore. Use WindowManager.LayoutParams.FLAG_BLUR_BEHIND instead.
+08-24 11:40:47.460 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.462  1368 21356 I BatteryStatsImpl: stop #12: mUpdateTime=234419682000 mTotalTime=123823000 mCount=897 mAcquireTime=-1
+08-24 11:40:47.462  1368 21356 I BatteryStatsImpl: start #12: mUpdateTime=234419682000 mTotalTime=231145793000 mCount=951 mAcquireTime=-1
+08-24 11:40:47.463 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.463  1368  2058 D NetworkManagement: oldRule = 0, newRule=0 for uid=10012 on chain 2
+08-24 11:40:47.463  1368  2058 D NetworkManagement: !!!!! Skipping change
+08-24 11:40:47.467 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.469  2184  2184 D KeyguardUpdateMonitor: handleKeyguardReset
+08-24 11:40:47.471  2184  2184 D KeyguardUpdateMonitor: updateFingerprintListeningState true,mFingerprintRunningState 0
+08-24 11:40:47.471 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.472  2184  2184 D PhoneStatusBar: disable: < expand ICONS alerts SYSTEM_INFO back HOME* RECENT CLOCK SEARCH quick_settings >
+08-24 11:40:47.472  2184  2184 D PhoneStatusBar: disable
+08-24 11:40:47.472  2184  2184 D PhoneStatusBar: disable DISABLE_RECENT
+08-24 11:40:47.473  2184  2184 I Choreographer: Skipped 11 frames!  The application may be doing too much work on its main thread.
+08-24 11:40:47.475 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.479 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.481  4059  4138 D AppSuggestionManager: toAppBeanList end size = 13, result.size = 8, time = 73
+08-24 11:40:47.483 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.485  4059  4138 D WidgetProviderService: update SmallAppWidget widgetId:5
+08-24 11:40:47.487 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.491 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 1 line
+08-24 11:40:47.494 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.495  2184  2184 D PhoneStatusBar: updateTopWindowIsFullscreen=false
+08-24 11:40:47.495  2184  2184 D PhoneStatusBar: updateTopWindowIsFullscreen=false
+08-24 11:40:47.495  2184  2184 D PhoneStatusBar: isTopWindowIsFullscreen -------------false
+08-24 11:40:47.497  2184  2184 D KeyguardUpdateMonitor: sendAbsWindowFocusChange(true)
+08-24 11:40:47.499 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.499  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=true
+08-24 11:40:47.500  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:44,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:47.500  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:44,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:47.500  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:47.503 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.531 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 7 lines
+08-24 11:40:47.536 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.538  2184  2184 D StatusBar/NavBarView: setHomeChipEnable=false
+08-24 11:40:47.539 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.539  1368 21356 W System.err: java.io.FileNotFoundException: /sys/cs_press/cs_press/sleep (No such file or directory)
+08-24 11:40:47.539  1368 21356 W System.err: 	at java.io.FileOutputStream.open0(Native Method)
+08-24 11:40:47.539  2184  2184 D KeyguardUpdateMonitor: updateFingerprintListeningState true,mFingerprintRunningState 0
+08-24 11:40:47.540  1368 21356 W System.err: 	at java.io.FileOutputStream.open(FileOutputStream.java:292)
+08-24 11:40:47.540  1368 21356 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:223)
+08-24 11:40:47.540  1368 21356 W System.err: 	at java.io.FileOutputStream.<init>(FileOutputStream.java:110)
+08-24 11:40:47.540  1368 21356 W System.err: 	at java.io.FileWriter.<init>(FileWriter.java:63)
+08-24 11:40:47.540  1368 21356 W System.err: 	at meizu.statusbar.FlymeStatusBarManagerService.write(FlymeStatusBarManagerService.java:198)
+08-24 11:40:47.540  1368 21356 W System.err: 	at meizu.statusbar.FlymeStatusBarManagerService.setHomeChipEnable(FlymeStatusBarManagerService.java:186)
+08-24 11:40:47.540  1368 21356 W System.err: 	at meizu.statusbar.IFlymeStatusBarService$Stub.onTransact(IFlymeStatusBarService.java:158)
+08-24 11:40:47.540  1368 21356 W System.err: 	at android.os.Binder.execTransact(Binder.java:702)
+08-24 11:40:47.541  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:47.543 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.543  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:47.543  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:47.544  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:47.544  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840454
+08-24 11:40:47.544  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:47.544  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:47.544  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:47.546 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.653  1368  2026 V WindowManager: real win animation done:WindowStateAnimator{e4c4172 NavigationBar}
+08-24 11:40:47.647 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 25 lines
+08-24 11:40:47.651 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.654  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:47.655  2184  2184 D KeyguardMusicView: setLyricEnabled enable = true
+08-24 11:40:47.655  2184  2184 W KeyguardMusicView: Updating progress bar; received invalid estimated media position (-1). Disabling progress.
+08-24 11:40:47.655  2184  2184 V KeyguardMusicView: updatePlayPauseState(), old=0, state=0
+08-24 11:40:47.656 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.663 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 2 lines
+08-24 11:40:47.667 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.669   595   595 W SurfaceFlinger: onMessageReceived FrameMissed ! fence ptr 0x796de2dce0 
+08-24 11:40:47.671 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.711 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 10 lines
+08-24 11:40:47.715 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.718  1368  2060 D WifiStateMachine: mLastSignalLevel:3, newSignalLevel:3
+08-24 11:40:47.719 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.848 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 32 lines
+08-24 11:40:47.851 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:47.852  6734  6753 W TriggerManager: Activity unknown! Get it from ams.runningTasks
+08-24 11:40:47.852  6734  6753 I TriggerManager: Activity re-calc by paused
+08-24 11:40:47.852  6734  6753 I TriggerManager: notifyEvent:EVENT_ACTIVITY, obj=ActivityEvent{activity=com.zookingsoft.wrapper.StartServiceActivity, urlInfo=null}
+08-24 11:40:47.855 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.052 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 49 lines
+08-24 11:40:48.056 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.057  2184  2184 V KeyguardMusicView: updatePlayPauseState(), old=0, state=0
+08-24 11:40:48.058  2184  2184 D KeyguardMusicView: meta data change false
+08-24 11:40:48.058  2184  2184 D KeyguardMusicController: isMusicPlaying 0
+08-24 11:40:48.058  2184  2184 D KeyguardMusicView: prepareLyricContent , can construct lrcContent 
+08-24 11:40:48.058  2184  2184 D KeyguardMusicView: setLrcContent mLrcList = []
+08-24 11:40:48.058  2184  2184 D KeyguardMusicController: requestLyric ...
+08-24 11:40:48.058  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:48.059 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.060  2184  2184 I KeyguardMusicController: version code is 8000011
+08-24 11:40:48.061  2184  2184 D KeyguardMusicRemoteController: isMeizuMusic remoteClientPackage = com.meizu.media.music
+08-24 11:40:48.062  2184  2184 I KeyguardMusicController: version code is 8000011
+08-24 11:40:48.064 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.067 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.067  2184  2184 D KeyguardMusicView: mMusicController.getDuration() = 0
+08-24 11:40:48.071 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.080 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 2 lines
+08-24 11:40:48.084 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.087  1368  3433 D LocationManagerService: getProviders()=[network]
+08-24 11:40:48.087  1368  3433 D LocationManagerService: getBestProvider(Criteria[power=LOW acc=LOW], true)=network
+08-24 11:40:48.088  1368  3433 D LocationManagerService: getLastLocation: Request[POWER_LOW network requested=0 fastest=0 num=1]
+08-24 11:40:48.088 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.089  1368  3433 D PermissionControl: packageName: com.meizu.customizecenter, mode: 0, permission: android.permission.ACCESS_COARSE_LOCATION, checkOpAllow: true
+08-24 11:40:48.090  1368  3433 D PermissionControl: req == null, packageName: com.meizu.customizecenter, code: 0, permissionAllow: true, allow: true
+08-24 11:40:48.091 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.091  1368  3433 D LocationManagerService: caller = com.meizu.customizecenter
+08-24 11:40:48.095 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.468 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 93 lines
+08-24 11:40:48.472 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.474  2184  2184 D WifiSignalController: setActivity activityIn=true,activityOut=false
+08-24 11:40:48.475 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.477  2184  2184 D NetworkController.WifiSignalController: Change in state from: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=true,rssi=-37,networkType=null,lastModified=08-24 11:40:47,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:48.477  2184  2184 D NetworkController.WifiSignalController: 	to: connected=true,enabled=true,level=4,inetCondition=1,iconGroup=IconGroup(Wi-Fi Icons),activityIn=true,activityOut=false,rssi=-37,networkType=null,lastModified=08-24 11:40:47,ssid="ZOOKING",enabling=false,disabling=false,connecting=false
+08-24 11:40:48.477  2184  2184 D NetworkController.WifiSignalController: isWifiConnect is true
+08-24 11:40:48.478  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:48.479 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.479  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:48.479  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:48.480  2184  2184 D SignalClusterView: ethernet: GONE
+08-24 11:40:48.480  2184  2184 D SignalClusterView: wifi: VISIBLE sig=2130840453
+08-24 11:40:48.481  2184  2184 D SignalClusterView: vpn: GONE
+08-24 11:40:48.481  2184  2184 D WifiTile: onWifiSignalChanged enabled=true
+08-24 11:40:48.481  2184  2184 D WifiTile: setWifiIndicatorsExt enabling=false disabling=false  currentIntermediate == false
+08-24 11:40:48.483 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.772 15674 15731 I chatty  : uid=10104(com.ibimuyu.lockscreen) AudioTrack identical 72 lines
+08-24 11:40:48.775 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.778  1368  2090 D AudioService: MzCreateMediaserverWatchdogThread: monitor mediaserver end !!!
+08-24 11:40:48.778  1368  2090 D AudioService: MzCreateMediaserverWatchdogThread: monitor mediaserver start!!!
+08-24 11:40:48.778  1368  2091 D AudioService: MzCreateMediaserverWatchdogThread: Monitoring ...
+08-24 11:40:48.779   946  1142 D AudioFlinger: setParameters(): io 0, keyvalue mediaserver_monitor=1, calling pid 1368
+08-24 11:40:48.779   946  1142 D AudioFlinger: [CURVE_VOLUME] setParameters: keyvalue mediaserver_monitor=1
+08-24 11:40:48.779 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:48.780   561   561 D audio_hw_primary: adev_set_parameters: enter: mediaserver_monitor=1
+08-24 11:40:48.780   561   561 D wt_audio_cust: wt_audio_mmi_setparameter: enter: mediaserver_monitor=1
+08-24 11:40:48.780   561   561 E wt_audio_cust: wt_audio_mmi_setparameter mmi test -2
+08-24 11:40:48.780   561   561 D audio_hw_extn: audio_extn_set_anc_parameters: anc_enabled:0
+08-24 11:40:48.780   561   561 D audio_hw_spkr_prot: audio_extn_fbsp_set_parameters: Speaker protection disabled
+08-24 11:40:48.783   946  1143 D APM_AudioPolicyManager: setStreamVolumeIndex() stream 7, device 00000400, index 15
+08-24 11:40:48.783 15674 15731 D AudioTrack: start(): 0xe043f280, mState = 0, mClientPid 15674
+08-24 11:40:50.044  1368  2130 E TaskPersister: File error accessing recents directory (directory doesn't exist?).
